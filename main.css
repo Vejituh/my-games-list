@@ -17,8 +17,8 @@ body {
 .search-input {
     padding: 1.5em 2em;
     text-align: center;
-    max-width: 70%;
-    margin: 1em auto;
+    min-width: 70%;
+    margin: 0 auto;
     background-color: #39311D;
     font-size: 1rem;
     border-radius: 45px;
@@ -29,6 +29,9 @@ body {
 .search-input::placeholder {
     opacity: 0.75;
     color: #F4F4F4;
+}
+.search-input:focus {
+    outline: none;
 }
 
 .gameContainer {
@@ -64,6 +67,11 @@ body {
     align-items: center;
     justify-content: center;
 }
+.main-btns {
+    display: flex;
+    flex-direction: column;
+    margin: 2em;
+}
 
 @media (min-width: 800px) {
     .gameContainer {
@@ -74,6 +82,12 @@ body {
         display: flex;
         flex-flow: row wrap;
         justify-content: space-between;
+    }
+    .main-btns {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 30em;
     }
 }
 

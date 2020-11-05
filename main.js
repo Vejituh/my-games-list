@@ -1,6 +1,6 @@
 let displayDiv = document.getElementById("page-wrapper");
 let inputSearch = document.getElementById("search-game");
-let gameList = document.getElementById("game-list")
+let gameList = document.getElementById("game-list");
 let sortedArr = [];
 let gamesArray;
 let sort = 0;
@@ -16,14 +16,14 @@ const letsFetch = () => {
        while (pastSort > 0) {
            sortArr();
        }
+       sortedArr.pop();
     })
 }
 
-const displayResults = (e) => {
-    if(e.code === "Enter") {
+const displayResults = () => {
         gameList.innerHTML = "";
         sortedArr.forEach((element) => {
-            if (element[0].toLowerCase().includes(inputSearch.value)) {
+            if (element[0].toLowerCase().includes(inputSearch.value.toLowerCase())) {
                 let gameDiv = document.createElement("div");
                 gameDiv.classList.add("gameContainer");
                 let gameName = document.createElement("p");
@@ -38,10 +38,9 @@ const displayResults = (e) => {
                 gameDiv.appendChild(gameName);
                 gameDiv.appendChild(gameYear);
                 gameDiv.appendChild(gameConsole);
-                gameList.appendChild(gameDiv)
+                gameList.appendChild(gameDiv);
             }
         })
-    } 
 }
 
 const sortArr = () => {
@@ -63,4 +62,10 @@ const sortArr = () => {
     sort = 0;
 }
 
-window.addEventListener("keydown", displayResults);
+window.addEventListener("keydown", (e) => {
+    if(e.code === "Enter") {
+            displayResults();
+        }
+    });
+
+    inputSearch.addEventListener('search', displayResults);
