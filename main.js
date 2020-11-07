@@ -25,10 +25,10 @@ const displayResults = () => {
         sortedArr.forEach((element) => {
             if (element[0].toLowerCase().includes(inputSearch.value.toLowerCase())) { 
                 let gameDiv = document.createElement("div");
-                gameDiv.classList.add("gameContainer");
-                if (element[3]) {
+                 if (element[3]) {
                     gameDiv.classList.add("bought");
-                }
+                 }
+                gameDiv.classList.add("gameContainer");
                 let gameName = document.createElement("p");
                 let gameYear = document.createElement("p");
                 let gameConsole = document.createElement("p");
@@ -50,6 +50,13 @@ const sortArr = () => {
     sortedArr.sort(function(a,b){
         if(a[0] < b[0] && a[1] == b[1]) {
             sort ++;
+            if(a[3] === "bought" && !b[3]) {
+                b[3] = a[3];
+                a.pop();
+            } else if (b[3] === "bought" && !a[3]) {
+                a[3] = b[3];
+                b.pop();
+            }
             if(a[2] != b[2]) {
                 let temp2 = a[2];
                 a[2] = b[2]
