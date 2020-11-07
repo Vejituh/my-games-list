@@ -1,4 +1,3 @@
-Suikode,1995,ps1,bought
 Alundra,1997,ps1
 Final Fantasy VII (Final Fantasy VII Remake),1997,ps1
 Need for Speed III: Hot Pursuit,1998,ps1
@@ -72,7 +71,7 @@ Persona 3 FES,2007,ps2
 Devil Summoner 2: Raidou Kuzunoha vs. King Abaddon,2008,ps2
 Persona 4,2008,ps2
 Ratchet & Clank Future: Tools of Destruction,2007,ps3
-BioShock (collection),2008,ps3
+BioShock (collection),2008,ps3,bought
 Dead Space,2008,ps3
 Grand Theft Auto IV,2008,ps3
 LittleBigPlanet,2008,ps3
@@ -84,7 +83,7 @@ Fat Princess,2009,ps3
 Killzone 2,2009,ps3
 Ratchet & Clank Future: A Crack in Time,2009,ps3
 Battlefield: Bad Company 2,2010,ps3
-BioShock 2 (Collection),2010,ps3
+BioShock 2 (Collection),2010,ps3,bought
 Castle Crashers (PS4 Remaster),2010,ps3
 DeathSpank,2010,ps3
 Grand Theft Auto: Episodes from Liberty City,2010,ps3
@@ -106,11 +105,10 @@ Rayman Origins,2011,ps3
 Saints Row: The Third (PS4),2011,ps3
 Binary Domain,2012,ps3
 Closure,2012,ps3
-Dishonored (Linux),2012,ps3
 Far Cry 3 (PS4),2012,ps3
 Mass Effect 3,2012,ps3
 Max Payne 3,2012,ps3
-Okami HD (Linux),2012,ps3
+Okami HD (Linux),2012,ps3,bought
 Persona 4 Arena,2012,ps3
 Dragon's Crown (PS4),2013,ps3
 Dragon's Dogma: Dark Arisen (PS4),2013,ps3
@@ -142,7 +140,7 @@ The Wolf Among Us,2014,ps4
 Valiant Hearts: The Great War,2014,ps4
 Axiom Verge,2015,ps4
 BlazBlue: Chrono Phantasma EXTEND,2015,ps4
-Bloodborne,2015,ps4
+Bloodborne,2015,ps4,bought
 DARIUSBURST Chronicle Saviours,2015,ps4
 Dark Souls II: Scholar of the First Sin,2015,ps4
 Devil May Cry 4: Special Edition,2015,ps4
@@ -161,7 +159,7 @@ BlazBlue: Central Fiction,2016,ps4
 Crypt of the NecroDancer,2016,ps4
 Dark Souls III,2016,ps4
 Darkest Dungeon,2016,ps4
-Dishonored 2,2016,ps4
+Dishonored 2,2016,ps4,bought
 Enter the Gungeon,2016,ps4
 Guilty Gear Xrd -REVELATOR-,2016,ps4
 INSIDE,2016,ps4
@@ -177,24 +175,24 @@ Steins;Gate 0,2016,ps4
 The Elder Scrolls V: Skyrim Special Edition,2016,ps4
 The King of Fighters XIV,2016,ps4
 The Last Guardian,2016,ps4
-The Witness,2016,ps4
+The Witness,2016,ps4,bought
 Thumper,2016,ps4
 A Hat in Time,2017,ps4
 Danganronpa 1 & 2 Reload,2017,ps4
 Danganronpa V3: Killing Harmony,2017,ps4
-Dishonored: Death of the Outsider,2017,ps4
+Dishonored: Death of the Outsider,2017,ps4,bought
 Dragon's Dogma: Dark Arisen,2017,ps4
 FINAL FANTASY IX,2017,ps4
 Full Throttle Remastered,2017,ps4
 Gravity Rush 2,2017,ps4
 Guilty Gear Xrd Rev 2,2017,ps4
 Hatsune Miku: Project DIVA Future Tone,2017,ps4
-Hellblade: Senua's Sacrifice (Linux),2017,ps4
+Hellblade: Senua's Sacrifice (Linux),2017,ps4,bought
 L.A. Noire,2017,ps4
 LocoRoco Remastered,2017,ps4
 Nex Machina,2017,ps4
-Night in the Woods,2017,ps4
-Nioh,2017,ps4
+Night in the Woods,2017,ps4,bought
+Nioh,2017,ps4,bought
 Pillars of Eternity: Complete Edition,2017,ps4
 Polybius,2017,ps4
 Resident Evil 7: Biohazard,2017,ps4
@@ -209,7 +207,7 @@ Ys VIII: Lacrimosa of DANA,2017,ps4
 Battle Chef Brigade,2018,ps4
 Bloodstained: Curse of the Moon,2018,ps4
 Burnout Paradise Remastered,2018,ps4
-Celeste (Linux),2018,ps4
+Celeste (Linux),2018,ps4,bought
 Dark Souls Remastered,2018,ps4
 Dead Cells,2018,ps4
 Death Road to Canada,2018,ps4
@@ -219,7 +217,7 @@ Don't Starve: Mega Pack,2018,ps4
 Dragon Quest XI: Echoes of an Elusive Age,2018,ps4
 Dragon's Crown Pro,2018,ps4
 Guacamelee! 2,2018,ps4
-Hollow Knight: Voidheart Edition,2018,ps4
+Hollow Knight: Voidheart Edition,2018,ps4,bought
 Monster Boy and the Cursed Kingdom,2018,ps4
 Owlboy,2018,ps4
 Red Dead Redemption 2,2018,ps4
@@ -229,8 +227,8 @@ The Banner Saga 3,2018,ps4
 Under Night In-Birth Exe: Late[St],2018,ps4
 Valkyria Chronicles 4,2018,ps4
 Yakuza 6: The Song of Life,2018,ps4
-Yakuza Kiwami 2,2018,ps4
-A Plague Tale: Innocence,2019,ps4
+Yakuza Kiwami 2,2018,ps4,bought
+A Plague Tale: Innocence,2019,ps4,bought
 Arise: A simple story,2019,ps4
 Bloodstained: Ritual of the Night,2019,ps4
 Cat Quest II,2019,ps4
@@ -482,7 +480,7 @@ The Red Strings Club,2018,pc
 Thronebreaker: The Witcher Tales,2018,pc
 Unavowed,2018,pc
 Wandersong,2018,pc
-Yoku's Island Express,2018,pc
+Yoku's Island Express,2018,pc,bought
 Youropa,2018,pc
 Age of Empires II: Definitive Edition,2019,pc
 Amid Evil,2019,pc
@@ -509,7 +507,7 @@ Reventure,2019,pc
 Streets of Rogue,2019,pc
 Supraland,2019,pc
 Touhou Luna Nights,2019,pc
-Yakuza Kiwami,2019,pc
+Yakuza Kiwami,2019,pc,bought
 Yuppie Psycho,2019,pc
 Command & Conquer Remastered Collection,2020,pc
 Cook Serve Delicious! 3?!,2020,pc
