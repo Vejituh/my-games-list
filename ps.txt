@@ -1,4 +1,4 @@
-Suikode,1995,ps1
+Suikode,1995,ps1,bought
 Alundra,1997,ps1
 Final Fantasy VII (Final Fantasy VII Remake),1997,ps1
 Need for Speed III: Hot Pursuit,1998,ps1
@@ -170,7 +170,6 @@ Naruto Shippuden: Ultimate Ninja Storm 4,2016,ps4
 Odin Sphere: Leifthrasir,2016,ps4
 Oxenfree,2016,ps4
 Plants vs. Zombies: Garden Warfare 2,2016,ps4
-Resident Evil 4,2016,ps4
 Rez Infinite,2016,ps4
 Shantae: Half-Genie Hero,2016,ps4
 SteamWorld Heist,2016,ps4

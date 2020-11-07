@@ -38,11 +38,16 @@ body {
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
+    align-items: center;
     padding: 1em;
     margin: 0.5em;
     text-transform: uppercase;
     font-weight: 700;
     background-color: #0f3460;
+}
+
+.bought {
+    border: 10px solid#6D6875;
 }
 
 .gameContainer p {
@@ -76,12 +81,11 @@ body {
 @media (min-width: 800px) {
     .gameContainer {
         width: 20em;
-        justify-content: center;
     }
     .gameList {
         display: flex;
         flex-flow: row wrap;
-        justify-content: space-between;
+        justify-content: center;
     }
     .main-btns {
         display: flex;
@@ -93,9 +97,9 @@ body {
 
 @media (min-width: 1100px) {
     .gameContainer {
-        width: 30%;
+        width: 45%;
     }
     .gameContainer p {
-        font-size: 1.2rem;
+        font-size: 1.0rem;
     }
 }

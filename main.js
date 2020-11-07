@@ -23,9 +23,12 @@ const letsFetch = () => {
 const displayResults = () => {
         gameList.innerHTML = "";
         sortedArr.forEach((element) => {
-            if (element[0].toLowerCase().includes(inputSearch.value.toLowerCase())) {
+            if (element[0].toLowerCase().includes(inputSearch.value.toLowerCase())) { 
                 let gameDiv = document.createElement("div");
                 gameDiv.classList.add("gameContainer");
+                if (element[3]) {
+                    gameDiv.classList.add("bought");
+                }
                 let gameName = document.createElement("p");
                 let gameYear = document.createElement("p");
                 let gameConsole = document.createElement("p");
