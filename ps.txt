@@ -433,7 +433,7 @@ Zombie Night Terror,2016,pc
 Bayonetta,2017,pc
 Bleed 2,2017,pc
 Cat Quest,2017,pc
-Darkwood,2017,pc
+Darkwood,2017,pc,bought
 Detention,2017,pc
 Doki Doki Literature Club!,2017,pc
 Emily is Away Too,2017,pc
@@ -481,7 +481,7 @@ Thronebreaker: The Witcher Tales,2018,pc
 Unavowed,2018,pc
 Wandersong,2018,pc
 Yoku's Island Express,2018,pc,bought
-Youropa,2018,pc
+Youropa,2018,pc,bought
 Age of Empires II: Definitive Edition,2019,pc
 Amid Evil,2019,pc
 APE OUT,2019,pc
