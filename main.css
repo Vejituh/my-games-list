@@ -46,8 +46,16 @@ body {
     background-color: #0f3460;
 }
 
-.bought {
-    border: 10px solid#6D6875;
+.bought:before {
+    content: "";
+    position: relative;
+    z-index:1000;
+    width: 25px;
+    height: 25px;
+    border-radius: 25px;
+    top: -2%;
+    left: 48%;
+    background-color: #FFFB7D;
 }
 
 .gameContainer p {

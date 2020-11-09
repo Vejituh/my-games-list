@@ -1,75 +1,95 @@
-Alundra,1997,ps1
-Final Fantasy VII (Final Fantasy VII Remake),1997,ps1
-Need for Speed III: Hot Pursuit,1998,ps1
-Metal Gear Solid,1998,ps1
-R4: Ridge Racer Type 4,1998,ps1
+Tekken,1995,ps1
+UFO: Enemy Unknown (XCOM),1995,ps1
+Wipeout,1995,ps1
+Street Fighter Alpha: Warriors' Dream,1996,ps1
+Tekken 2,1996,ps1
+Tomb Raider,1996,ps1
+X-COM: Terror from the Deep,1996,ps1
+Castlevania: Symphony of the Night (Castlevania Requiem compilation),1997,ps1
+Final Fantasy VII (Remake),1997,ps1
+Formula 1 97,1997,ps1
+Alundra,1998,ps1
+Final Fantasy Tactics,1998,ps1
+Gran Turismo,1998,ps1
+Tekken 3,1998,ps1
+Ape Escape,1999,ps1
+Dino Crisis,1999,ps1
 Final Fantasy VIII (Remastered),1999,ps1
-Gran Turismo 2,1999,ps1
-Legacy of Kain: Soul Reaver,1999,ps1
-Medal of Honor,1999,ps1
+Metal Gear Solid,1999,ps1
 Silent Hill (Shattered Memories),1999,ps1
-V-Rally 2,1999,ps1
-Arc the Lad Collection,2002,ps1
+Street Fighter Alpha 3 (30th Anniversary Collection),1999,ps1
+Tony Hawk's Pro Skater 1  (1 + 2 remake),1999,ps1
+Chrono Cross,2000,ps1
+Gran Turismo 2,2000,ps1
+Grandia (HD Remaster),2000,ps1
+Lunar: Eternal Blue Complete,2000,ps1
+Persona 2: Eternal Punishment,2000,ps1
+Resident Evil 3: Nemesis (Remake),2000,ps1
 Tony Hawk's Pro Skater 2 (1+2 remake),2000,ps1
-Smuggler's Run,2000,ps2
+Vagrant Story,2000,ps1
+Breath of Fire IV,2001,ps1
+Final Fantasy Chronicles,2001,ps1
+Final Fantasy IX (Remaster),2001,ps1
+Final Fantasy VI,20001,ps1
+Rayman 2: The Great Escape,1999,ps2
+Dead or Alive 2,2000,ps2
+SSX,2000,ps2
+TimeSplitters,2000,ps2
+Baldur's Gate: Dark Alliance,2001,ps2
+Devil May Cry (HD),2001,ps2
+Gran Turismo 3: A-Spec,2001,ps2
 Grand Theft Auto III,2001,ps2
-Maximo: Ghosts to Glory,2001,ps2
-Soul Reaver 2,2001,ps2
+Resident Evil – Code: Veronica (HD),2001,ps2
 SSX Tricky,2001,ps2
 Tony Hawk's Pro Skater 3,2001,ps2
+Twisted Metal: Black,2001,ps2
+Aggressive Inline,2002,ps2
+Final Fantasy X (X/X-2 HD Remaster),2002,ps2
+Grand Theft Auto: Vice City,2002,ps2
+Grandia II,2002,ps2
+Medal of Honor: Frontline,2002,ps2
+Metal Gear Solid 2: Sons of Liberty (HD),2002,ps2
 Need for Speed: Hot Pursuit 2,2002,ps2
-Suikoden III,2002,ps2
 TimeSplitters 2,2002,ps2
 Tony Hawk's Pro Skater 4,2002,ps2
-Wipeout Fusion,2002,ps2
+Ape Escape 2,2003,ps2
+Beyond Good & Evil (HD),2003,ps2
+Dark Chronicle (PS4),2003,ps2
+Guilty Gear X2 #Reload,2003,ps2
 JAK II (ps4 version),2003,ps2
+Prince of Persia: The Sands of Time (Remake),2003,ps2
+Ratchet & Clank 2: Going Commando (HD),2003,ps2
+Silent Hill 3,2003,ps2
+Soulcalibur II (HD),2003,ps2
+SSX 3,2003,ps2
+The Lord of the Rings: The Return of the King,2003,ps2
 Tom Clancy's Splinter Cell (Splinter cell Trilogy),2003,ps2
-007: Everything or Nothing,2004,ps2
+Tony Hawk's Underground,2003,ps2
+Virtua Fighter 10th Anniversary,2003,ps2
+Burnout 3: Takedown,2004,ps2
 Champions of Norrath,2004,ps2
-Dragon Quest VIII: Journey of the Cursed King,2004,ps2
-Gran Turismo 4,2004,ps2
+Final Fantasy X-2 (X/X-2 HD Remaster),2004,ps2
 Grand Theft Auto: San Andreas,2004,ps2
-Katamari Damacy (Katamari Damacy reroll),2004,ps2
-Mega Man Anniversary Collection,2004,ps2
-Metal Gear Solid 3: Snake Eater  (MGS HD Collection),2004,ps2
-Onimusha 3: Demon Siege,2004,ps2
-Prince of Persia: Warrior Within,2004,ps2
-Psi-Ops: The Mindgate Conspiracy,2004,ps2
+Jak 3 (Collection),2004,ps2
 Ratchet & Clank: Up Your Arsenal (PS3 HD),2004,ps2
-Shadow Hearts: Covenant,2004,ps2
+SOCOM II U.S. Navy SEALs,2004,ps2
 Tom Clancy's Splinter Cell: Pandora Tomorrow (Splinter cell Trilogy),2004,ps2
-Tony Hawk's Underground 2,2004,ps2
 Viewtiful Joe,2004,ps2
-Ape Escape 3,2005,ps2
 Burnout Revenge,2005,ps2
 Devil May Cry 3: Dante's Awakening  (Devil May Cry HD Collection),2005,ps2
-Fatal Frame III: The Tormented,2005,ps2
 God of War (God of war Collection/saga),2005,ps2
-Gun,2005,ps2
-Indigo Prophecy (PS4 remaster),2005,ps2
-Kingdom Hearts II (Kingdom Hearts HD 2.5 Remix),2005,ps2
-Mercenaries: Playground of Destruction,2005,ps2
-Midnight Club 3: Dub Edition,2005,ps2
-Need for Speed: Most Wanted,2005,ps2
+Gran Turismo 4,2005,ps2
+Metal Gear Solid 3: Snake Eater (HD),2005,ps2
 Prince of Persia: The Two Thrones,2005,ps2
-Psychonauts (Linux),2005,ps2
 Resident Evil 4 (PS4),2005,ps2
-Rogue Galaxy,2005,ps2
-Shin Megami Tensei: Digital Devil Saga 2,2005,ps2
-Soulcalibur III,2005,ps2
+Shin Megami Tensei III: Nocturne (HD),2005,ps2
 Tekken 5,2005,ps2
-TimeSplitters: Future Perfect,2005,ps2
-We Love Katamari,2005,ps2
 Bully,2006,ps2
-Disgaea 2 (linux),2006,ps2
-Final Fantasy XII (The Zodiac Age),2006,ps2
-Street Fighter Alpha Anthology,2006,ps2
-Tom Clancy's Splinter Cell: Double Agent (PS3),2006,ps2
-Valkyrie Profile 2: Silmeria,2006,ps2
+Dragon Quest VIII: Journey of the Cursed King,2006,ps2
+Final Fantasy XII (The Zodiac Age),2007,ps2
 God of War II (God of war collection/saga),2007,ps2
-Persona 3 FES,2007,ps2
-Devil Summoner 2: Raidou Kuzunoha vs. King Abaddon,2008,ps2
-Persona 4,2008,ps2
+Persona 3 FES,2008,ps2
+Persona 4,2009,ps2
 Ratchet & Clank Future: Tools of Destruction,2007,ps3
 BioShock (collection),2008,ps3,bought
 Dead Space,2008,ps3
