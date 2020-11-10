@@ -545,3 +545,4 @@ The Pedestrian,2020,pc
 The Procession to Calvary,2020,pc
 WHAT THE GOLF?,2020,pc
 WORLD OF HORROR,2020,pc
+Assassin's Creed Valhalla,2020,ps5
