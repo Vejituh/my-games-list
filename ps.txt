@@ -89,7 +89,7 @@ Dragon Quest VIII: Journey of the Cursed King,2006,ps2
 Final Fantasy XII (The Zodiac Age),2007,ps2
 God of War II (God of war collection/saga),2007,ps2
 Persona 3 FES,2008,ps2
-Persona 4,2009,ps2
+Persona 4 (Golden),2009,ps2
 Ratchet & Clank Future: Tools of Destruction,2007,ps3
 BioShock (collection),2008,ps3,bought
 Dead Space,2008,ps3
@@ -167,7 +167,6 @@ Devil May Cry 4: Special Edition,2015,ps4
 Disgaea 5: Alliance of Vengeance,2015,ps4
 Divinity: Original Sin Enhanced Edition,2015,ps4
 Fallout 4,2015,ps4
-Final Fantasy VII (Remake),2015,ps4
 Helldivers,2015,ps4
 Hotline Miami 2: Wrong Number,2015,ps4
 Mortal Kombat X,2015,ps4
@@ -202,7 +201,6 @@ Danganronpa 1 & 2 Reload,2017,ps4
 Danganronpa V3: Killing Harmony,2017,ps4
 Dishonored: Death of the Outsider,2017,ps4,bought
 Dragon's Dogma: Dark Arisen,2017,ps4
-FINAL FANTASY IX,2017,ps4
 Full Throttle Remastered,2017,ps4
 Gravity Rush 2,2017,ps4
 Guilty Gear Xrd Rev 2,2017,ps4
@@ -290,7 +288,6 @@ Huntdown,2020,ps4
 Nioh 2,2020,ps4
 Nioh 2 - Darkness in the Capital,2020,ps4
 Persona 5 Royal,2020,ps4
-RESIDENT EVIL 3,2020,ps4
 Spelunky 2,2020,ps4
 Spiritfarer,2020,ps4
 Streets of Rage 4,2020,ps4
@@ -542,7 +539,6 @@ Hades,2020,pc
 Lair of the Clockwork God,2020,pc
 Monster Train,2020,pc
 Ori and the Will of the Wisps,2020,pc
-Persona 4 Golden (PC),2020,pc
 Post Void,2020,pc
 Story of Seasons: Friends of Mineral Town,2020,pc
 The Pedestrian,2020,pc
