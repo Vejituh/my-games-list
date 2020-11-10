@@ -30,7 +30,7 @@ Vagrant Story,2000,ps1
 Breath of Fire IV,2001,ps1
 Final Fantasy Chronicles,2001,ps1
 Final Fantasy IX (Remaster),2001,ps1
-Final Fantasy VI,20001,ps1
+Final Fantasy VI,2001,ps1
 Rayman 2: The Great Escape,1999,ps2
 Dead or Alive 2,2000,ps2
 SSX,2000,ps2
