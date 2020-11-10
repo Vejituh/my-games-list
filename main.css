@@ -37,6 +37,7 @@ body {
 
 .gameContainer {
     display: flex;
+    position: relative;
     flex-flow: row wrap;
     justify-content: center;
     align-items: center;
@@ -47,14 +48,16 @@ body {
     background-color: #0f3460;
 }
 
-.bought:before {
+.bought::before {
     content: "";
-    position: relative;
+    display: inline-block;
+    position: absolute;
     width: 25px;
     height: 25px;
+    margin: 0.5em;
     border-radius: 25px;
-    top: -2%;
-    left: 48%;
+    top: 30%;
+    right: 5px;
     background-color: #FFFB7D;
 }
 
