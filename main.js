@@ -2,14 +2,15 @@ let displayDiv = document.getElementById("page-wrapper");
 let inputSearch = document.getElementById("search-game");
 let gameList = document.getElementById("game-list");
 let sortedGamesList = [];
-let gamesArray;
 let sort = 0;
 let pastSort = 1;
 
 
-const letsFetch = () => {
-    fetch('ps.txt').then(x => x.text()).then(games => {
-        gamesArray = games.split('\n')
+async function letsFetch()  {
+    await fetch('ps.txt')
+            .then(response => response.text())
+            .then(data => {
+        let gamesArray = data.split('\n')
         for (gameProps of gamesArray) {
             sortedGamesList.push(gameProps.split(","))
         }
