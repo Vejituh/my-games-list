@@ -1,5 +1,3 @@
-Tekken,1995,ps1
-UFO: Enemy Unknown (XCOM),1995,ps1
 Wipeout,1995,ps1
 Street Fighter Alpha: Warriors' Dream,1996,ps1
 Tekken 2,1996,ps1
@@ -549,3 +547,4 @@ Assassin's Creed Valhalla,2020,ps5
 Yakuza: Like a Dragon,2020,ps4
 Chicken Police,2020,pc
 Marvel's Spider-Man: Miles Morales,2020,ps5
+Paradise Killer,2020,pc
