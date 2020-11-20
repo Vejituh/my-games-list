@@ -2,6 +2,7 @@ let displayDiv = document.getElementById("page-wrapper");
 let inputSearch = document.getElementById("search-game");
 let gameList = document.getElementById("game-list");
 let sortedGamesList = [];
+let gamesObj = [];
 let sort = 0;
 let pastSort = 1;
 
@@ -11,18 +12,24 @@ async function letsFetch()  {
             .then(response => response.text())
             .then(data => {
         let gamesArray = data.split('\n')
-        for (gameProps of gamesArray) {
-            sortedGamesList.push(gameProps.split(","))
+        for (games of gamesArray) {
+            let game = games.split(",")
+            gamesObj.push({title: game[0], release: game[1], platform: game[2], purchased: game[3] === undefined? false:game[3]})
+            sortedGamesList.push(games.split(","))
         }
+        sortObj();
+        console.log(gamesObj)
        while (pastSort >= 1) {
            sortArr();
        }
     })
 }
 
+
 const displayResults = () => {
         gameList.innerHTML = "";
         for(const game of sortedGamesList){
+            gamesObj = {title:game[0], release: game[1], platform: game[2], purchased: game[3] === undefined? false:game[3]}
             let [gameTitle, yearOfRelease, platform, purchased] = game;
             if (gameTitle.toLowerCase().includes(inputSearch.value.toLowerCase())) { 
                 let gameDiv = document.createElement("div");
@@ -45,6 +52,19 @@ const displayResults = () => {
                 gameList.appendChild(gameDiv);
             }
         }
+}
+
+
+
+const sortObj = () => {
+    cmp = function(a, b) {
+    if (a > b) return +1;
+    if (a < b) return -1;
+    return 0;
+}
+    gamesObj.sort((a,b) => {
+        return cmp(a.release,b.release) || cmp(a.title,b.title)
+    })
 }
 
 const sortArr = () => {
