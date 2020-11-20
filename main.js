@@ -11,7 +11,7 @@ async function letsFetch() {
             let gamesArray = data.split('\n')
             for (games of gamesArray) {
                 let game = games.split(",")
-                gamesObj.push({ title: game[0], release: game[1], platform: game[2], purchased: game[3] === undefined ? false : game[3] })
+                gamesObj.push({ title: game[0], release: new Date(game[1]), platform: game[2], purchased: game[3] === undefined ? false : game[3] })
             }
             sortObj();
         })
@@ -34,7 +34,7 @@ const displayResults = () => {
             displayGameYear.classList.add("game-year");
             displayGameConsole.classList.add("game-console");
             displayGameName.textContent = game.title;
-            displayGameYear.textContent = game.release;
+            displayGameYear.textContent = `${game.release.getMonth()+1}`.padStart(2, "0") + `/${game.release.getFullYear()}`;
             displayGameConsole.textContent = game.platform;
             gameDiv.appendChild(displayGameName);
             gameDiv.appendChild(displayGameYear);
