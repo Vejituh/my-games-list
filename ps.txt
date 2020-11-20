@@ -1,551 +1,545 @@
-Wipeout,1995,ps1
-Street Fighter Alpha: Warriors' Dream,1996,ps1
-Tekken 2,1996,ps1
-Tomb Raider,1996,ps1
-X-COM: Terror from the Deep,1996,ps1
-Castlevania: Symphony of the Night (Castlevania Requiem compilation),1997,ps1
-Final Fantasy VII (Remake),1997,ps1
-Formula 1 97,1997,ps1
-Alundra,1998,ps1
-Final Fantasy Tactics,1998,ps1
-Gran Turismo,1998,ps1
-Tekken 3,1998,ps1
-Ape Escape,1999,ps1
-Dino Crisis,1999,ps1
-Final Fantasy VIII (Remastered),1999,ps1
-Metal Gear Solid,1999,ps1
-Silent Hill (Shattered Memories),1999,ps1
-Street Fighter Alpha 3 (30th Anniversary Collection),1999,ps1
-Tony Hawk's Pro Skater 1  (1 + 2 remake),1999,ps1
-Chrono Cross,2000,ps1
-Gran Turismo 2,2000,ps1
-Grandia (HD Remaster),2000,ps1
-Lunar: Eternal Blue Complete,2000,ps1
-Persona 2: Eternal Punishment,2000,ps1
-Resident Evil 3: Nemesis (Remake),2000,ps1
-Tony Hawk's Pro Skater 2 (1+2 remake),2000,ps1
-Vagrant Story,2000,ps1
-Breath of Fire IV,2001,ps1
-Final Fantasy Chronicles,2001,ps1
-Final Fantasy IX (Remaster),2001,ps1
-Final Fantasy VI,2001,ps1
-Rayman 2: The Great Escape,1999,ps2
-Dead or Alive 2,2000,ps2
-SSX,2000,ps2
-TimeSplitters,2000,ps2
-Baldur's Gate: Dark Alliance,2001,ps2
-Devil May Cry (HD),2001,ps2
-Gran Turismo 3: A-Spec,2001,ps2
-Grand Theft Auto III,2001,ps2
-Resident Evil – Code: Veronica (HD),2001,ps2
-SSX Tricky,2001,ps2
-Tony Hawk's Pro Skater 3,2001,ps2
-Twisted Metal: Black,2001,ps2
-Aggressive Inline,2002,ps2
-Final Fantasy X (X/X-2 HD Remaster),2002,ps2
-Grand Theft Auto: Vice City,2002,ps2
-Grandia II,2002,ps2
-Medal of Honor: Frontline,2002,ps2
-Metal Gear Solid 2: Sons of Liberty (HD),2002,ps2
-Need for Speed: Hot Pursuit 2,2002,ps2
-TimeSplitters 2,2002,ps2
-Tony Hawk's Pro Skater 4,2002,ps2
-Ape Escape 2,2003,ps2
-Beyond Good & Evil (HD),2003,ps2
-Dark Chronicle (PS4),2003,ps2
-Guilty Gear X2 #Reload,2003,ps2
-JAK II (ps4 version),2003,ps2
-Prince of Persia: The Sands of Time (Remake),2003,ps2
-Ratchet & Clank 2: Going Commando (HD),2003,ps2
-Silent Hill 3,2003,ps2
-Soulcalibur II (HD),2003,ps2
-SSX 3,2003,ps2
-The Lord of the Rings: The Return of the King,2003,ps2
-Tom Clancy's Splinter Cell (Splinter cell Trilogy),2003,ps2
-Tony Hawk's Underground,2003,ps2
-Virtua Fighter 10th Anniversary,2003,ps2
-Burnout 3: Takedown,2004,ps2
-Champions of Norrath,2004,ps2
-Final Fantasy X-2 (X/X-2 HD Remaster),2004,ps2
-Grand Theft Auto: San Andreas,2004,ps2
-Jak 3 (Collection),2004,ps2
-Ratchet & Clank: Up Your Arsenal (PS3 HD),2004,ps2
-SOCOM II U.S. Navy SEALs,2004,ps2
-Tom Clancy's Splinter Cell: Pandora Tomorrow (Splinter cell Trilogy),2004,ps2
-Viewtiful Joe,2004,ps2
-Burnout Revenge,2005,ps2
-Devil May Cry 3: Dante's Awakening  (Devil May Cry HD Collection),2005,ps2
-God of War (God of war Collection/saga),2005,ps2
-Gran Turismo 4,2005,ps2
-Metal Gear Solid 3: Snake Eater (HD),2005,ps2
-Prince of Persia: The Two Thrones,2005,ps2
-Resident Evil 4 (PS4),2005,ps2
-Shin Megami Tensei III: Nocturne (HD),2005,ps2
-Tekken 5,2005,ps2
-Bully,2006,ps2
-Dragon Quest VIII: Journey of the Cursed King,2006,ps2
-Final Fantasy XII (The Zodiac Age),2007,ps2
-God of War II (God of war collection/saga),2007,ps2
-Persona 3 FES,2008,ps2
-Persona 4 (Golden),2009,ps2
-Ratchet & Clank Future: Tools of Destruction,2007,ps3
-BioShock (collection),2008,ps3,bought
-Dead Space,2008,ps3
-Grand Theft Auto IV,2008,ps3
-LittleBigPlanet,2008,ps3
-Metal Gear Solid 4: Guns of the Patriots,2008,ps3
-Valkyria Chronicles (Remastered),2008,ps3
-Braid (Linux),2009,ps3
-Demon's Souls (PS5 Remake),2009,ps3
-Fat Princess,2009,ps3
-Killzone 2,2009,ps3
-Ratchet & Clank Future: A Crack in Time,2009,ps3
-Battlefield: Bad Company 2,2010,ps3
-BioShock 2 (Collection),2010,ps3,bought
-Castle Crashers (PS4 Remaster),2010,ps3
-DeathSpank,2010,ps3
-Grand Theft Auto: Episodes from Liberty City,2010,ps3
-Lara Croft and the Guardian of Light,2010,ps3
-Need for Speed: Hot Pursuit (PS4 Remaster),2010,ps3
-Red Dead Redemption,2010,ps3
-Scott Pilgrim vs. the World: The Game (PS4),2010,ps3
-Tales of Monkey Island,2010,ps3
-Crysis,2011,ps3
-Dark Souls: Remastered,2011,ps3
-Dead Space 2,2011,ps3
-Dungeon Defenders (Linux),2011,ps3
-LittleBigPlanet 2,2011,ps3
-Mass Effect 2,2011,ps3
-Mortal Kombat,2011,ps3
-Oddworld: Stranger's Wrath HD,2011,ps3
-Plants vs. Zombies,2011,ps3
-Rayman Origins,2011,ps3
-Saints Row: The Third (PS4),2011,ps3
-Binary Domain,2012,ps3
-Closure,2012,ps3
-Far Cry 3 (PS4),2012,ps3
-Mass Effect 3,2012,ps3
-Max Payne 3,2012,ps3
-Okami HD (Linux),2012,ps3,bought
-Persona 4 Arena,2012,ps3
-Dragon's Crown (PS4),2013,ps3
-Dragon's Dogma: Dark Arisen (PS4),2013,ps3
-Hotline Miami (PS4),2013,ps3
-LEGO Marvel Super Heroes (PS4),2013,ps3
-Ni no Kuni: Wrath of the White Witch (Remaster),2013,ps3
-Puppeteer,2013,ps3
-Spelunky,2013,ps3
-Tales of Xillia,2013,ps3
-Tom Clancy’s Splinter Cell Blacklist,2013,ps3
-South Park: The Stick of Truth (PS4),2014,ps3
-Hatsune Miku: Project DIVA F 2nd,2014,ps3
-Persona 4 Arena Ultimax,2014,ps3
-The Swapper (PS4),2014,ps3
-Yakuza 5 (Remaster),2015,ps3
-Under Night In-Birth Exe:Late,2015,ps3
-Sound Shapes,2013,ps4
-Child of Light,2014,ps4
-Diablo III: Ultimate Evil Edition,2014,ps4
-Dragon Age: Inquisition,2014,ps4
-Far Cry 4,2014,ps4
-Guilty Gear Xrd -SIGN-,2014,ps4
-Middle-earth: Shadow of Mordor,2014,ps4
-Plants vs. Zombies: Garden Warfare,2014,ps4
-Rogue Legacy,2014,ps4
-The Binding of Isaac: Rebirth,2014,ps4
-The Walking Dead: Season Two,2014,ps4
-The Wolf Among Us,2014,ps4
-Valiant Hearts: The Great War,2014,ps4
-Axiom Verge,2015,ps4
-BlazBlue: Chrono Phantasma EXTEND,2015,ps4
-Bloodborne,2015,ps4,bought
-DARIUSBURST Chronicle Saviours,2015,ps4
-Dark Souls II: Scholar of the First Sin,2015,ps4
-Devil May Cry 4: Special Edition,2015,ps4
-Disgaea 5: Alliance of Vengeance,2015,ps4
-Divinity: Original Sin Enhanced Edition,2015,ps4
-Fallout 4,2015,ps4
-Helldivers,2015,ps4
-Hotline Miami 2: Wrong Number,2015,ps4
-Mortal Kombat X,2015,ps4
-N++,2015,ps4
-Nuclear Throne,2015,ps4
-Shovel Knight,2015,ps4
-The Talos Principle: Deluxe Edition,2015,ps4
-BlazBlue: Central Fiction,2016,ps4
-Crypt of the NecroDancer,2016,ps4
-Dark Souls III,2016,ps4
-Darkest Dungeon,2016,ps4
-Dishonored 2,2016,ps4,bought
-Enter the Gungeon,2016,ps4
-Guilty Gear Xrd -REVELATOR-,2016,ps4
-INSIDE,2016,ps4
-Mortal Kombat XL,2016,ps4
-Naruto Shippuden: Ultimate Ninja Storm 4,2016,ps4
-Odin Sphere: Leifthrasir,2016,ps4
-Oxenfree,2016,ps4
-Plants vs. Zombies: Garden Warfare 2,2016,ps4
-Rez Infinite,2016,ps4
-Shantae: Half-Genie Hero,2016,ps4
-SteamWorld Heist,2016,ps4
-Steins;Gate 0,2016,ps4
-The Elder Scrolls V: Skyrim Special Edition,2016,ps4
-The King of Fighters XIV,2016,ps4
-The Last Guardian,2016,ps4
-The Witness,2016,ps4,bought
-Thumper,2016,ps4
-A Hat in Time,2017,ps4
-Danganronpa 1 & 2 Reload,2017,ps4
-Danganronpa V3: Killing Harmony,2017,ps4
-Dishonored: Death of the Outsider,2017,ps4,bought
-Dragon's Dogma: Dark Arisen,2017,ps4
-Full Throttle Remastered,2017,ps4
-Gravity Rush 2,2017,ps4
-Guilty Gear Xrd Rev 2,2017,ps4
-Hatsune Miku: Project DIVA Future Tone,2017,ps4
-Hellblade: Senua's Sacrifice (Linux),2017,ps4,bought
-L.A. Noire,2017,ps4
-LocoRoco Remastered,2017,ps4
-Nex Machina,2017,ps4
-Night in the Woods,2017,ps4,bought
-Nioh,2017,ps4,bought
-Pillars of Eternity: Complete Edition,2017,ps4
-Polybius,2017,ps4
-Resident Evil 7: Biohazard,2017,ps4
-South Park: The Fractured But Whole,2017,ps4
-SteamWorld Dig 2,2017,ps4
-The Sexy Brutale,2017,ps4
-Undertale,2017,ps4
-Wolfenstein II: The New Colossus,2017,ps4
-Wonder Boy: The Dragon's Trap,2017,ps4
-Yakuza 0,2017,ps4
-Ys VIII: Lacrimosa of DANA,2017,ps4
-Battle Chef Brigade,2018,ps4
-Bloodstained: Curse of the Moon,2018,ps4
-Burnout Paradise Remastered,2018,ps4
-Celeste (Linux),2018,ps4,bought
-Dark Souls Remastered,2018,ps4
-Dead Cells,2018,ps4
-Death Road to Canada,2018,ps4
-Divinity: Original Sin 2 – Definitive Edition,2018,ps4
-DJMax Respect,2018,ps4
-Don't Starve: Mega Pack,2018,ps4
-Dragon Quest XI: Echoes of an Elusive Age,2018,ps4
-Dragon's Crown Pro,2018,ps4
-Guacamelee! 2,2018,ps4
-Hollow Knight: Voidheart Edition,2018,ps4,bought
-Monster Boy and the Cursed Kingdom,2018,ps4
-Owlboy,2018,ps4
-Red Dead Redemption 2,2018,ps4
-Subnautica,2018,ps4
-Tetris Effect,2018,ps4
-The Banner Saga 3,2018,ps4
-Under Night In-Birth Exe: Late[St],2018,ps4
-Valkyria Chronicles 4,2018,ps4
-Yakuza 6: The Song of Life,2018,ps4
-Yakuza Kiwami 2,2018,ps4,bought
-A Plague Tale: Innocence,2019,ps4,bought
-Arise: A simple story,2019,ps4
-Bloodstained: Ritual of the Night,2019,ps4
-Cat Quest II,2019,ps4
-Catherine: Full Body,2019,ps4
-Control,2019,ps4
-Crash Team Racing Nitro-Fueled,2019,ps4
-Death Stranding,2019,ps4
-Devil May Cry 5,2019,ps4
-Fell Seal: Arbiter's Mark,2019,ps4
-Judgment,2019,ps4
-Kingdom Hearts III,2019,ps4
-Mortal Kombat 11,2019,ps4
-NieR: Automata Game of the YoRHa Edition,2019,ps4
-Outer Wilds,2019,ps4
-Risk of Rain 2,2019,ps4
-Samurai Shodown,2019,ps4
-Sayonara Wild Hearts,2019,ps4
-Sekiro: Shadows Die Twice,2019,ps4
-STAR WARS Jedi: Fallen Order,2019,ps4
-STEINS;GATE ELITE,2019,ps4
-Tales of Vesperia: Definitive Edition,2019,ps4
-The Legend of Heroes: Trails of Cold Steel,2019,ps4
-The Legend of Heroes: Trails of Cold Steel III,2019,ps4
-The Messenger,2019,ps4
-VA-11 Hall-A: Cyberpunk Bartender Action,2019,ps4
-Valfaris,2019,ps4
-Wreckfest,2019,ps4
-13 Sentinels: Aegis Rim,2020,ps4
-Crash Bandicoot 4: It's About Time,2020,ps4
-Creaks,2020,ps4
-CrossCode,2020,ps4
-Cuphead,2020,ps4
-DOOM Eternal,2020,ps4
-DOOM Eternal: The Ancient Gods - Part One,2020,ps4
-Dreams,2020,ps4
-Ghost of Tsushima,2020,ps4
-Granblue Fantasy Versus,2020,ps4
-Huntdown,2020,ps4
-Nioh 2,2020,ps4
-Nioh 2 - Darkness in the Capital,2020,ps4
-Persona 5 Royal,2020,ps4
-Spelunky 2,2020,ps4
-Spiritfarer,2020,ps4
-Streets of Rage 4,2020,ps4
-The Last of Us: Part II,2020,ps4
-Trials of Mana,2020,ps4
-Cave Story+,2017,switch
-Mario + Rabbids Kingdom Battle,2017,switch
-Splatoon 2,2017,switch
-Xenoblade Chronicles 2,2017,switch
-Bayonetta 2 + Bayonetta,2018,switch
-Captain Toad: Treasure Tracker,2018,switch
-Octopath Traveler,2018,switch
-Super Smash Bros. Ultimate,2018,switch
-Astral Chain,2019,switch
-Fire Emblem: Three Houses,2019,switch
-New Super Mario Bros. U Deluxe,2019,switch
-Pokémon Shield/Sword,2019,switch
-Ring Fit Adventure,2019,switch
-Super Mario Maker 2,2019,switch
-The Legend of Zelda: Link's Awakening,2019,switch
-Yoshi's Crafted World,2019,switch
-Rune Factory 4 Special,2020,switch
-Super Mario 3D All-Stars,2020,switch
-Xenoblade Chronicles: Definitive Edition,2020,switch
-Turok 2: Seeds of Evil,1998,pc
-Thief II: The Metal Age,2000,pc
-Return to Castle Wolfenstein,2001,pc
-The Elder Scrolls III: Morrowind,2002,pc
-Impossible Creatures,2003,pc
-Star Wars: Knights of the Old Republic,2003,pc
-Rome: Total War,2004,pc
-Vampire: The Masquerade – Bloodlines,2004,pc
-F.E.A.R.,2005,pc
-Sid Meier's Civilization IV,2005,pc
-Star Wars: Battlefront II (2005),2005,pc
-Star Wars: Knights of the Old Republic II - Sith Lord,2005,pc
-Star Wars: Republic Commando,2005,pc
-Company of Heroes,2006,pc
-FlatOut 2,2006,pc
-Hitman: Blood Money,2006,pc
-Medieval II: Total War,2006,pc
-Star Wars: Empire at War,2006,pc
-Warhammer 40000: Dawn of War,2006,pc
-Warhammer 40000: Dawn of War-Dark Crusade,2006,pc
-S.T.A.L.K.E.R.: Shadow of Chernobyl,2007,pc
-Supreme Commander,2007,pc
-Supreme Commander: Forged Alliance,2007,pc
-Audiosurf,2008,pc
-World of Goo,2008,pc
-Dragon Age: Origins,2009,pc
-Empire: Total War,2009,pc
-Machinarium,2009,pc
-The Secret of Monkey Island: Special Edition,2009,pc
-Amnesia: The Dark Descent,2010,pc
-Fallout: New Vegas,2010,pc
-Mafia II,2010,pc
-Mount & Blade: Warband,2010,pc
-Napoleon: Total War,2010,pc
-S.T.A.L.K.E.R.: Call of Pripyat,2010,pc
-StarCraft II: Wings of Liberty,2010,pc
-Super Meat Boy,2010,pc
-Dungeons of Dredmor,2011,pc
-Frozen Synapse,2011,pc
-Orcs Must Die!,2011,pc
-To the Moon,2011,pc
-Total War: Shogun 2,2011,pc
-Alan Wake,2012,pc
-Crusader Kings II,2012,pc
-Darksiders II,2012,pc
-FTL: Faster Than Light,2012,pc
-Guild Wars 2,2012,pc
-Legend of Grimrock,2012,pc
-Mark of the Ninja,2012,pc
-Orcs Must Die! 2,2012,pc
-Primordia,2012,pc
-Sins of a Solar Empire: Rebellion,2012,pc
-The Cat Lady,2012,pc
-Torchlight II,2012,pc
-XCOM: Enemy Unknown,2012,pc
-Assassin's Creed IV: Black Flag,2013,pc
-BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien,2013,pc
-Call of Juarez: Gunslinger,2013,pc
-Dust: An Elysian Tail,2013,pc
-Europa Universalis IV,2013,pc
-Fez,2013,pc
-Gunpoint,2013,pc
-Monaco: What's Yours Is Mine,2013,pc
-Pac-Man Championship Edition DX +,2013,pc
-Papers Please,2013,pc
-Sanctum 2,2013,pc
-Skulls of the Shogun,2013,pc
-The Stanley Parable,2013,pc
-Astebreed,2014,pc
-BattleBlock Theater,2014,pc
-Blackwell Epiphany,2014,pc
-Door Kickers,2014,pc
-Freedom Planet,2014,pc
-Jazzpunk,2014,pc
-Kero Blaster,2014,pc
-Legend of Grimrock 2,2014,pc
-LUFTRAUSERS,2014,pc
-Metal Gear Rising: Revengeance,2014,pc
-Sleeping Dogs: Definitive Edition,2014,pc
-Super Time Force Ultra,2014,pc
-Tales From The Borderlands,2014,pc
-The Banner Saga,2014,pc
-The Journey Down: Chapter Two,2014,pc
-This War of Mine,2014,pc
-TowerFall Ascension,2014,pc
-80 Days,2015,pc
-Assault Android Cactus,2015,pc
-Broforce,2015,pc
-Chroma Squad,2015,pc
-CLANNAD,2015,pc
-Downwell,2015,pc
-Dropsy,2015,pc
-Duck Game,2015,pc
-Hacknet,2015,pc
-Her Story,2015,pc
-Infinifactory,2015,pc
-Kerbal Space Program,2015,pc
-Lovers in a Dangerous Spacetime,2015,pc
-Mini Metro,2015,pc
-Mushihimesama,2015,pc
-Pillars of Eternity,2015,pc
-Prison Architect,2015,pc
-SOMA,2015,pc
-StarCraft II: Legacy of the Void,2015,pc
-Technobabylon,2015,pc
-The Legend of Heroes: Trails in the Sky SC,2015,pc
-Westerado: Double Barreled,2015,pc
-Crazy Machines 3,2016,pc
-Day of the Tentacle Remastered,2016,pc
-Devil Daggers,2016,pc
-DoDonPachi Resurrection,2016,pc
-Earth Defense Force 4.1: The Shadow of New Despair,2016,pc
-Epistory - Typing Chronicles,2016,pc
-Flat Heroes,2016,pc
-Forza Horizon 3,2016,pc
-Gears of War 4,2016,pc
-Grim Dawn,2016,pc
-Hearts of Iron IV,2016,pc
-INVERSUS,2016,pc
-Kathy Rain,2016,pc
-OneShot,2016,pc
-Plague Inc: Evolved,2016,pc
-Planet Coaster,2016,pc
-Pony Island,2016,pc
-Quadrilateral Cowboy,2016,pc
-Rabi-Ribi,2016,pc
-Samorost 3,2016,pc
-Slayaway Camp,2016,pc
-Songs for a Hero - A Lenda do Heroi,2016,pc
-SpeedRunners,2016,pc
-Stephen's Sausage Roll,2016,pc
-The Banner Saga 2,2016,pc
-The Count Lucanor,2016,pc
-Wuppo,2016,pc
-Zombie Night Terror,2016,pc
-Bayonetta,2017,pc
-Bleed 2,2017,pc
-Cat Quest,2017,pc
-Darkwood,2017,pc,bought
-Detention,2017,pc
-Doki Doki Literature Club!,2017,pc
-Emily is Away Too,2017,pc
-Fight'N Rage,2017,pc
-Finding Paradise,2017,pc
-Forza Motorsport 7,2017,pc
-Gorogoa,2017,pc
-Heat Signature,2017,pc
-Hidden Folks,2017,pc
-HIVESWAP: Act 1,2017,pc
-Linelight,2017,pc
-Monolith,2017,pc
-Opus Magnum,2017,pc
-Paradigm,2017,pc
-Planescape: Torment - Enhanced Edition,2017,pc
-Rakuen,2017,pc
-Rivals of Aether,2017,pc
-Slime Rancher,2017,pc
-Splasher,2017,pc
-Subsurface Circular,2017,pc
-Tales of Berseria,2017,pc
-The End Is Nigh,2017,pc
-The Legend of Heroes: Trails in the Sky the 3rd,2017,pc
-Thimbleweed Park,2017,pc
-Tormentor X Punisher,2017,pc
-Total War: WARHAMMER II,2017,pc
-West of Loathing,2017,pc
-428: Shibuya Scramble,2018,pc
-DUSK,2018,pc
-FAR: Lone Sails,2018,pc
-Forza Horizon 4,2018,pc
-Full Metal Furies,2018,pc
-Iconoclasts,2018,pc
-Into the Breach,2018,pc
-Just Shapes & Beats,2018,pc
-LUMINES REMASTERED,2018,pc
-Pillars of Eternity II: Deadfire,2018,pc
-Pit People,2018,pc
-Return of the Obra Dinn,2018,pc
-RimWorld,2018,pc
-The Awesome Adventures of Captain Spirit,2018,pc
-The Gardens Between,2018,pc
-The Red Strings Club,2018,pc
-Thronebreaker: The Witcher Tales,2018,pc
-Unavowed,2018,pc
-Wandersong,2018,pc
-Yoku's Island Express,2018,pc,bought
-Youropa,2018,pc,bought
-Age of Empires II: Definitive Edition,2019,pc
-Amid Evil,2019,pc
-APE OUT,2019,pc
-Arcade Spirits,2019,pc
-Baba Is You,2019,pc
-Bug Fables: The Everlasting Sapling,2019,pc
-Children of Morta,2019,pc
-Dicey Dungeons,2019,pc
-Frog Detective 2: The Case of the Invisible Wizard,2019,pc
-Gato Roboto,2019,pc
-Ion Fury,2019,pc
-Islanders,2019,pc
-Katana ZERO,2019,pc
-Kind Words (lo fi chill beats to write to),2019,pc
-Manifold Garden,2019,pc
-My Friend Pedro,2019,pc
-Noita,2019,pc
-One Finger Death Punch 2,2019,pc
-Oxygen Not Included,2019,pc
-Pikuniku,2019,pc
-Raging Loop,2019,pc
-Reventure,2019,pc
-Streets of Rogue,2019,pc
-Supraland,2019,pc
-Touhou Luna Nights,2019,pc
-Yakuza Kiwami,2019,pc,bought
-Yuppie Psycho,2019,pc
-Command & Conquer Remastered Collection,2020,pc
-Cook Serve Delicious! 3?!,2020,pc
-Crusader Kings III,2020,pc
-Deep Rock Galactic,2020,pc
-Desperados III,2020,pc
-Disc Room,2020,pc
-Factorio,2020,pc
-Gears Tactics,2020,pc
-Ghostrunner,2020,pc
-Hades,2020,pc
-Lair of the Clockwork God,2020,pc
-Monster Train,2020,pc
-Ori and the Will of the Wisps,2020,pc
-Post Void,2020,pc
-Story of Seasons: Friends of Mineral Town,2020,pc
-The Pedestrian,2020,pc
-The Procession to Calvary,2020,pc
-WHAT THE GOLF?,2020,pc
-WORLD OF HORROR,2020,pc
-Assassin's Creed Valhalla,2020,ps5
-Yakuza: Like a Dragon,2020,ps4
-Chicken Police,2020,pc
-Marvel's Spider-Man: Miles Morales,2020,ps5
-Paradise Killer,2020,pc
-Sackboy: A Big Adventure,2020,ps5
+Wipeout,1995 Sep,ps1
+Street Fighter Alpha: Warriors' Dream,1996 Apr,ps1
+Tekken 2,1996 Oct,ps1
+Tomb Raider,1996 Nov,ps1
+X-COM: Terror from the Deep,1996 Dec,ps1
+Castlevania: Symphony of the Night (Castlevania Requiem compilation),1997 Nov,ps1
+Final Fantasy VII (Remake),1997 Nov,ps1
+Formula 1 97,1997 Sep,ps1
+Alundra,1998 Jun,ps1
+Final Fantasy Tactics,1998 Jan,ps1
+Gran Turismo,1998 May,ps1
+Tekken 3,1998 Sep,ps1
+Ape Escape,1999 Jul,ps1
+Dino Crisis,1999 Oct,ps1
+Final Fantasy VIII (Remastered),1999 Oct,ps1
+Metal Gear Solid,1999 Feb,ps1
+Silent Hill (Shattered Memories),1999 Feb,ps1
+Street Fighter Alpha 3 (30th Anniversary Collection),1999 Jun,ps1
+Tony Hawk's Pro Skater 1  (1 + 2 remake),1999 Oct,ps1
+Chrono Cross,2000 Aug,ps1
+Gran Turismo 2,2000 Jan,ps1
+Grandia (HD Remaster),2000 Mar,ps1
+Lunar: Eternal Blue Complete,2000 Sep,ps1
+Persona 2: Eternal Punishment,2000 Dec,ps1
+Resident Evil 3: Nemesis (Remake),2000 Feb,ps1
+Tony Hawk's Pro Skater 2 (1+2 remake),2000 Sep,ps1
+Vagrant Story,2000 Jun,ps1
+Breath of Fire IV,2001 Aug,ps1
+Final Fantasy Chronicles,2001 Jun,ps1
+Final Fantasy IX (Remaster),2001 Feb,ps1
+Final Fantasy VI,2002 Mar,ps1
+Rayman 2: The Great Escape,2000 Dec,ps2
+Dead or Alive 2,2000 Dec,ps2
+SSX,2000 Nov,ps2
+TimeSplitters,2000 Oct,ps2
+Baldur's Gate: Dark Alliance,2001 Dec,ps2
+Devil May Cry (HD),2001 Dec,ps2
+Gran Turismo 3: A-Spec,2001 Jul,ps2
+Grand Theft Auto III,2001 Oct,ps2
+Resident Evil – Code: Veronica (HD),2001 Sep,ps2
+SSX Tricky,2001 Nov,ps2
+Tony Hawk's Pro Skater 3,2001 Nov,ps2
+Twisted Metal: Black,2001 Dec,ps2
+Aggressive Inline,2002 Aug,ps2
+Final Fantasy X (X/X-2 HD Remaster),2002 May,ps2
+Grand Theft Auto: Vice City,2002 Nov,ps2
+Grandia II,2002 Mar,ps2
+Medal of Honor: Frontline,2002 Jun,ps2
+Metal Gear Solid 2: Sons of Liberty (HD),2002 Mar,ps2
+Need for Speed: Hot Pursuit 2,2002 Oct,ps2
+TimeSplitters 2,2002 Oct,ps2
+Tony Hawk's Pro Skater 4,2002 Oct,ps2
+Ape Escape 2,2003 Jun,ps2
+Beyond Good & Evil (HD),2003 Nov,ps2
+Dark Chronicle (PS4),2003 Sep,ps2
+Guilty Gear X2 #Reload,2003 Nov,ps2
+JAK II (ps4 version),2003 Oct,ps2
+Prince of Persia: The Sands of Time (Remake),2003 Nov,ps2
+Ratchet & Clank 2: Going Commando (HD),2003 Nov,ps2
+Silent Hill 3,2003 May,ps2
+Soulcalibur II (HD),2003 Sep,ps2
+SSX 3,2003 Oct,ps2
+The Lord of the Rings: The Return of the King,2003 Nov,ps2
+Tom Clancy's Splinter Cell (Splinter cell Trilogy),2003 Apr,ps2
+Tony Hawk's Underground,2003 Nov,ps2
+Virtua Fighter 10th Anniversary,2003 Nov,ps2
+Burnout 3: Takedown,2004 Sep,ps2
+Champions of Norrath,2004 Jun,ps2
+Final Fantasy X-2 (X/X-2 HD Remaster),2004 Feb,ps2
+Grand Theft Auto: San Andreas,2004 Oct,ps2
+Jak 3 (Collection),2004 Nov,ps2
+Ratchet & Clank: Up Your Arsenal (PS3 HD),2004 Nov,ps2
+SOCOM II U.S. Navy SEALs,2004 Mar,ps2
+Tom Clancy's Splinter Cell: Pandora Tomorrow (Splinter cell Trilogy),2004 Jun,ps2
+Viewtiful Joe,2004 Oct,ps2
+Burnout Revenge,2005 Sep,ps2
+Devil May Cry 3: Dante's Awakening  (Devil May Cry HD Collection),2005 Mar,ps2
+God of War (God of war Collection/saga),2005 Jul,ps2
+Gran Turismo 4,2005 Mar,ps2
+Metal Gear Solid 3: Snake Eater (HD),2005 Mar,ps2
+Prince of Persia: The Two Thrones,2005 Dec,ps2
+Resident Evil 4 (PS4),2005 Nov,ps2
+Shin Megami Tensei III: Nocturne (HD),2005 Jul,ps2
+Tekken 5,2005 Jun,ps2
+Bully,2006 Oct,ps2
+Dragon Quest VIII: Journey of the Cursed King,2006 Apr,ps2
+Final Fantasy XII (The Zodiac Age),2007 Feb,ps2
+God of War II (God of war collection/saga),2007 Apr,ps2
+Persona 3 FES,2008 Oct,ps2
+Persona 4 (Golden),2009 Mar,ps2
+Ratchet & Clank Future: Tools of Destruction,2007 Nov,ps3
+BioShock (collection),2008 Oct,ps3,bought
+Dead Space,2008 Oct,ps3
+Grand Theft Auto IV,2008 Apr,ps3
+LittleBigPlanet,2008 Nov,ps3
+Metal Gear Solid 4: Guns of the Patriots,2008 Jun,ps3
+Valkyria Chronicles (Remastered),2008 Nov,ps3
+Braid (Linux),2009 Dec,ps3
+Demon's Souls (PS5 Remake),2009 Jun,ps3
+Fat Princess,2009 Jul,ps3
+Killzone 2,2009 Feb,ps3
+Ratchet & Clank Future: A Crack in Time,2009 Nov,ps3
+Battlefield: Bad Company 2,2010 Mar,ps3
+BioShock 2 (Collection),2010 Feb,ps3,bought
+Castle Crashers (PS4 Remaster),2010 Nov,ps3
+DeathSpank,2010 Jul,ps3
+Grand Theft Auto: Episodes from Liberty City,2010 Apr,ps3
+Lara Croft and the Guardian of Light,2010 Aug,ps3
+Need for Speed: Hot Pursuit (PS4 Remaster),2010 Nov,ps3
+Red Dead Redemption,2010 May,ps3
+Scott Pilgrim vs. the World: The Game (PS4),2010 Aug,ps3
+Tales of Monkey Island,2010 Jun,ps3
+Crysis,2011 Oct,ps3
+Dark Souls (Remastered),2011 Sep,ps3
+Dead Space 2,2011 Jan,ps3
+Dungeon Defenders (Linux),2011 Dec,ps3
+LittleBigPlanet 2,2011 Jan,ps3
+Mass Effect 2,2011 Jan,ps3
+Mortal Kombat,2011 Apr,ps3
+Oddworld: Stranger's Wrath HD,2011 Dec,ps3
+Plants vs. Zombies,2011 Feb,ps3
+Rayman Origins,2011 Nov,ps3
+Saints Row: The Third (PS4),2011 Nov,ps3
+Binary Domain,2012 Feb,ps3
+Closure,2012 Mar,ps3
+Far Cry 3 (PS4),2012 Nov,ps3
+Mass Effect 3,2012 Mar,ps3
+Max Payne 3,2012 May,ps3
+Okami HD (Linux),2012 Oct,ps3,bought
+Persona 4 Arena,2012 May,ps3
+Dragon's Crown (PS4),2013 Oct,ps3
+Dragon's Dogma: Dark Arisen (PS4),2013 Apr,ps3
+Hotline Miami (PS4),2013 Jun,ps3
+LEGO Marvel Super Heroes (PS4),2013 Nov,ps3
+Ni no Kuni: Wrath of the White Witch (Remaster),2013 Feb,ps3
+Puppeteer,2013 Sep,ps3
+Spelunky,2013 Aug,ps3
+Tales of Xillia,2013 Aug,ps3
+Tom Clancy’s Splinter Cell Blacklist,2013 Aug,ps3
+South Park: The Stick of Truth (PS4),2014 Mar,ps3
+Hatsune Miku: Project DIVA F 2nd,2014 Nov,ps3
+Persona 4 Arena Ultimax,2014 Nov,ps3
+The Swapper (PS4),2014 Aug,ps3
+Yakuza 5 (Remaster),2015 Dec,ps3
+Under Night In-Birth Exe:Late,2015 Feb,ps3
+Sound Shapes,2013 Aug,ps4
+Child of Light,2014 Apr,ps4
+Diablo III: Ultimate Evil Edition,2014 Aug,ps4
+Dragon Age: Inquisition,2014 Nov,ps4
+Far Cry 4,2014 Nov,ps4
+Guilty Gear Xrd -SIGN-,2014 Dec,ps4
+Middle-earth: Shadow of Mordor,2014 Oct,ps4
+Plants vs. Zombies: Garden Warfare,2014 Jun,ps4
+Rogue Legacy,2014 Jul,ps4
+The Binding of Isaac: Rebirth,2014 Nov,ps4
+The Walking Dead: Season Two,2014 Oct,ps4
+The Wolf Among Us,2014 Nov,ps4
+Valiant Hearts: The Great War,2014 Jun,ps4
+Axiom Verge,2015 Apr,ps4
+BlazBlue: Chrono Phantasma EXTEND,2015 Oct,ps4
+Bloodborne,2015 Mar,ps4,bought
+DARIUSBURST Chronicle Saviours,2015 Dec,ps4
+Dark Souls II: Scholar of the First Sin,2015 Apr,ps4
+Devil May Cry 4: Special Edition,2015 Jun,ps4
+Disgaea 5: Alliance of Vengeance,2015 Oct,ps4
+Divinity: Original Sin Enhanced Edition,2015 Oct,ps4
+Fallout 4,2015 Nov,ps4
+Helldivers,2015 Mar,ps4
+Hotline Miami 2: Wrong Number,2015 Mar,ps4
+N++,2015 Jul,ps4
+Nuclear Throne,2015 Dec,ps4
+Shovel Knight,2015 Apr,ps4
+The Talos Principle: Deluxe Edition,2015 Oct,ps4
+BlazBlue: Central Fiction,2016 Nov,ps4
+Crypt of the NecroDancer,2016 Feb,ps4
+Dark Souls III,2016 Apr,ps4
+Darkest Dungeon,2016 Sep,ps4
+Dishonored 2,2016 Nov,ps4,bought
+Enter the Gungeon,2016 Apr,ps4
+Guilty Gear Xrd -REVELATOR-,2016 May,ps4
+INSIDE,2016 Aug,ps4
+Mortal Kombat XL,2016 Mar,ps4
+Naruto Shippuden: Ultimate Ninja Storm 4,2016 Feb,ps4
+Odin Sphere: Leifthrasir,2016 Jun,ps4
+Oxenfree,2016 May,ps4
+Plants vs. Zombies: Garden Warfare 2,2016 Feb,ps4
+Rez Infinite,2016 Oct,ps4
+Shantae: Half-Genie Hero,2016 Dec,ps4
+SteamWorld Heist,2016 Jun,ps4
+Steins;Gate 0,2016 Nov,ps4
+The Elder Scrolls V: Skyrim Special Edition,2016 Oct,ps4
+The King of Fighters XIV,2016 Aug,ps4
+The Last Guardian,2016 Dec,ps4
+The Witness,2016 Jan,ps4,bought
+Thumper,2016 Oct,ps4
+A Hat in Time,2017 Dec,ps4
+Danganronpa 1 & 2 Reload,2017 Jan,ps4
+Danganronpa V3: Killing Harmony,2017 Jan,ps4
+Dishonored: Death of the Outsider,2017 Sep,ps4,bought
+Dragon's Dogma: Dark Arisen,2017 Jan,ps4
+Full Throttle Remastered,2017 Apr,ps4
+Gravity Rush 2,2017 Jan,ps4
+Guilty Gear Xrd Rev 2,2017 May,ps4
+Hatsune Miku: Project DIVA Future Tone,2017 Jan,ps4
+Hellblade: Senua's Sacrifice (Linux),2017 Aug,ps4,bought
+L.A. Noire,2017 Nov,ps4
+LocoRoco Remastered,2017 Jun,ps4
+Nex Machina,2017 Jun,ps4
+Night in the Woods,2017 Feb,ps4,bought
+Nioh,2017 Feb,ps4,bought
+Pillars of Eternity: Complete Edition,2017 Aug,ps4
+Polybius,2017 May,ps4
+Resident Evil 7: Biohazard,2017 Jan,ps4
+South Park: The Fractured But Whole,2017 Oct,ps4
+SteamWorld Dig 2,2017 Sep,ps4
+The Sexy Brutale,2017 Apr,ps4
+Undertale,2017 Aug,ps4
+Wolfenstein II: The New Colossus,2017 Oct,ps4
+Wonder Boy: The Dragon's Trap,2017 Apr,ps4
+Yakuza 0,2017 Jan,ps4
+Ys VIII: Lacrimosa of DANA,2017 Sep,ps4
+Battle Chef Brigade,2018 Nov,ps4
+Bloodstained: Curse of the Moon,2018 May,ps4
+Burnout Paradise Remastered,2018 Mar,ps4
+Celeste (Linux),2018 Jan,ps4,bought
+Dead Cells,2018 Aug,ps4
+Divinity: Original Sin 2 – Definitive Edition,2018 Aug,ps4
+DJMax Respect,2018 Mar,ps4
+Don't Starve: Mega Pack,2018 Sep,ps4
+Dragon Quest XI: Echoes of an Elusive Age,2018 Sep,ps4
+Dragon's Crown Pro,2018 May,ps4
+Guacamelee! 2,2018 Aug,ps4
+Hollow Knight: Voidheart Edition,2018 Sep,ps4,bought
+Monster Boy and the Cursed Kingdom,2018 Dec,ps4
+Owlboy,2018 Apr,ps4
+Red Dead Redemption 2,2018 Oct,ps4
+Subnautica,2018 Dec,ps4
+Tetris Effect,2018 Nov,ps4
+The Banner Saga 3,2018 Jul,ps4
+Under Night In-Birth Exe: Late[St],2018 Feb,ps4
+Valkyria Chronicles 4,2018 Sep,ps4
+Yakuza 6: The Song of Life,2018 Apr,ps4
+Yakuza Kiwami 2,2018 Aug,ps4,bought
+A Plague Tale: Innocence,2019 May,ps4,bought
+Arise: A simple story,2019 Dec,ps4
+Bloodstained: Ritual of the Night,2019 Jun,ps4
+Cat Quest II,2019 Sep,ps4
+Catherine: Full Body,2019 Sep,ps4
+Control,2019 Aug,ps4
+Crash Team Racing Nitro-Fueled,2019 Jun,ps4
+Death Stranding,2019 Nov,ps4
+Devil May Cry 5,2019 Mar,ps4
+Fell Seal: Arbiter's Mark,2019 Apr,ps4
+Judgment,2019 Jun,ps4
+Kingdom Hearts III,2019 Jan,ps4
+Mortal Kombat 11,2019 Apr,ps4
+NieR: Automata Game of the YoRHa Edition,2019 Mar,ps4
+Outer Wilds,2019 Oct,ps4
+Risk of Rain 2,2019 Aug,ps4
+Samurai Shodown,2019 Jun,ps4
+Sayonara Wild Hearts,2019 Sep,ps4
+Sekiro: Shadows Die Twice,2019 Mar,ps4
+STAR WARS Jedi: Fallen Order,2019 Nov,ps4
+STEINS;GATE ELITE,2019 Feb,ps4
+Tales of Vesperia: Definitive Edition,2019 Jan,ps4
+The Legend of Heroes: Trails of Cold Steel,2019 Mar,ps4
+The Legend of Heroes: Trails of Cold Steel III,2019 Oct,ps4
+The Messenger,2019 Mar,ps4
+VA-11 Hall-A: Cyberpunk Bartender Action,2019 May,ps4
+Valfaris,2019 Oct,ps4
+Wreckfest,2019 Aug,ps4
+13 Sentinels: Aegis Rim,2020 Sep,ps4
+Crash Bandicoot 4: It's About Time,2020 Oct,ps4
+Creaks,2020 Jul,ps4
+CrossCode,2020 Jul,ps4
+Cuphead,2020 Jul,ps4
+DOOM Eternal,2020 Mar,ps4
+DOOM Eternal: The Ancient Gods - Part One,2020 Oct,ps4
+Dreams,2020 Feb,ps4
+Ghost of Tsushima,2020 Jul,ps4
+Granblue Fantasy Versus,2020 Mar,ps4
+Huntdown,2020 May,ps4
+Nioh 2,2020 Mar,ps4
+Nioh 2 - Darkness in the Capital,2020 Oct,ps4
+Persona 5 Royal,2020 Mar,ps4
+Spelunky 2,2020 Sep,ps4
+Spiritfarer,2020 Aug,ps4
+Streets of Rage 4,2020 Apr,ps4
+The Last of Us: Part II,2020 Jun,ps4
+Trials of Mana,2020 Apr,ps4
+Cave Story+,2017 Jul,switch
+Mario + Rabbids Kingdom Battle,2017 Aug,switch
+Splatoon 2,2017 Jul,switch
+Xenoblade Chronicles 2,2017 Dec,switch
+Bayonetta 2 + Bayonetta,2018 Feb,switch
+Captain Toad: Treasure Tracker,2018 Jul,switch
+Octopath Traveler,2018 Jul,switch
+Super Smash Bros. Ultimate,2018 Dec,switch
+Astral Chain,2019 Aug,switch
+Fire Emblem: Three Houses,2019 Jul,switch
+New Super Mario Bros. U Deluxe,2019 Jan,switch
+Pokémon Shield/Sword,2019 Nov,switch
+Ring Fit Adventure,2019 Oct,switch
+Super Mario Maker 2,2019 Jun,switch
+The Legend of Zelda: Link's Awakening,2019 Sep,switch
+Yoshi's Crafted World,2019 Mar,switch
+Rune Factory 4 Special,2020 Feb,switch
+Super Mario 3D All-Stars,2020 Sep,switch
+Xenoblade Chronicles: Definitive Edition,2020 May,switch
+Turok 2: Seeds of Evil,1998 Feb,pc
+Thief II: The Metal Age,2000 Mar,pc
+Return to Castle Wolfenstein,2001 Nov,pc
+The Elder Scrolls III: Morrowind,2002 May,pc
+Impossible Creatures,2003 Feb,pc
+Star Wars: Knights of the Old Republic,2003 Dec,pc
+Rome: Total War,2004 Oct,pc
+Vampire: The Masquerade – Bloodlines,2004 Nov,pc
+F.E.A.R.,2005 Oct,pc
+Sid Meier's Civilization IV,2005 Nov,pc
+Star Wars: Battlefront II (2005),2005 Oct,pc
+Star Wars: Knights of the Old Republic II - Sith Lord,2005 Feb,pc
+Star Wars: Republic Commando,2005 Mar,pc
+Company of Heroes,2006 Sep,pc
+FlatOut 2,2006 Jun,pc
+Hitman: Blood Money,2006 May,pc
+Medieval II: Total War,2006 Nov,pc
+Star Wars: Empire at War,2006 Feb,pc
+Warhammer 40000: Dawn of War,2006 Sep,pc
+Warhammer 40000: Dawn of War-Dark Crusade,2006 Oct,pc
+S.T.A.L.K.E.R.: Shadow of Chernobyl,2007 Mar,pc
+Supreme Commander,2007 Feb,pc
+Supreme Commander: Forged Alliance,2007 Nov,pc
+Audiosurf,2008 Feb,pc
+World of Goo,2008 Dec,pc
+Dragon Age: Origins,2009 Nov,pc
+Empire: Total War,2009 Mar,pc
+Machinarium,2009 Oct,pc
+The Secret of Monkey Island: Special Edition,2009 Jul,pc
+Amnesia: The Dark Descent,2010 Sep,pc
+Fallout: New Vegas,2010 Oct,pc
+Mafia II,2010 Aug,pc
+Mount & Blade: Warband,2010 Apr,pc
+Napoleon: Total War,2010 Feb,pc
+S.T.A.L.K.E.R.: Call of Pripyat,2010 Feb,pc
+StarCraft II: Wings of Liberty,2010 Jul,pc
+Super Meat Boy,2010 Nov,pc
+Dungeons of Dredmor,2011 Jul,pc
+Frozen Synapse,2011 May,pc
+Orcs Must Die!,2011 Oct,pc
+To the Moon,2011 Nov,pc
+Total War: Shogun 2,2011 Mar,pc
+Alan Wake,2012 Feb,pc
+Crusader Kings II,2012 Feb,pc
+Darksiders II,2012 Aug,pc
+FTL: Faster Than Light,2012 Sep,pc
+Guild Wars 2,2012 Aug,pc
+Legend of Grimrock,2012 Apr,pc
+Mark of the Ninja,2012 Oct,pc
+Orcs Must Die! 2,2012 Jul,pc
+Primordia,2012 Dec,pc
+Sins of a Solar Empire: Rebellion,2012 Jun,pc
+The Cat Lady,2012 Dec,pc
+Torchlight II,2012 Sep,pc
+Assassin's Creed IV: Black Flag,2013 Nov,pc
+BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien,2013 Feb,pc
+Call of Juarez: Gunslinger,2013 May,pc
+Dust: An Elysian Tail,2013 May,pc
+Europa Universalis IV,2013 Aug,pc
+Fez,2013 May,pc
+Gunpoint,2013 Jun,pc
+Monaco: What's Yours Is Mine,2013 Apr,pc
+Pac-Man Championship Edition DX +,2013 Sep,pc
+Papers Please,2013 Aug,pc
+Sanctum 2,2013 May,pc
+Skulls of the Shogun,2013 Jan,pc
+The Stanley Parable,2013 Oct,pc
+Astebreed,2014 May,pc
+BattleBlock Theater,2014 May,pc
+Blackwell Epiphany,2014 Apr,pc
+Door Kickers,2014 Oct,pc
+Freedom Planet,2014 Jul,pc
+Jazzpunk,2014 Feb,pc
+Kero Blaster,2014 May,pc
+Legend of Grimrock 2,2014 Oct,pc
+LUFTRAUSERS,2014 Mar,pc
+Metal Gear Rising: Revengeance,2014 Jan,pc
+Sleeping Dogs: Definitive Edition,2014 Aug,pc
+Super Time Force Ultra,2014 Aug,pc
+Tales From The Borderlands,2014 Nov,pc
+The Banner Saga,2014 Jan,pc
+The Journey Down: Chapter Two,2014 Aug,pc
+This War of Mine,2014 Nov,pc
+TowerFall Ascension,2014 Mar,pc
+80 Days,2015 Sep,pc
+Assault Android Cactus,2015 Sep,pc
+Broforce,2015 Oct,pc
+Chroma Squad,2015 Apr,pc
+CLANNAD,2015 Apr,pc
+Downwell,2015 Oct,pc
+Dropsy,2015 Sep,pc
+Duck Game,2015 Jun,pc
+Hacknet,2015 Aug,pc
+Her Story,2015 Jun,pc
+Infinifactory,2015 Jun,pc
+Kerbal Space Program,2015 Apr,pc
+Lovers in a Dangerous Spacetime,2015 Sep,pc
+Mini Metro,2015 Nov,pc
+Mushihimesama,2015 Nov,pc
+Pillars of Eternity,2015 Mar,pc
+Prison Architect,2015 Oct,pc
+SOMA,2015 Sep,pc
+StarCraft II: Legacy of the Void,2015 Nov,pc
+Technobabylon,2015 May,pc
+The Legend of Heroes: Trails in the Sky SC,2015 Oct,pc
+Westerado: Double Barreled,2015 Apr,pc
+Crazy Machines 3,2016 Jun,pc
+Day of the Tentacle Remastered,2016 Mar,pc
+Devil Daggers,2016 Feb,pc
+DoDonPachi Resurrection,2016 Oct,pc
+Earth Defense Force 4.1: The Shadow of New Despair,2016 Jul,pc
+Epistory - Typing Chronicles,2016 Mar,pc
+Flat Heroes,2016 Sep,pc
+Forza Horizon 3,2016 Sep,pc
+Gears of War 4,2016 Oct,pc
+Grim Dawn,2016 Feb,pc
+Hearts of Iron IV,2016 Jun,pc
+INVERSUS,2016 Aug,pc
+Kathy Rain,2016 May,pc
+OneShot,2016 Jun,pc
+Plague Inc: Evolved,2016 Feb,pc
+Planet Coaster,2016 Nov,pc
+Pony Island,2016 Jan,pc
+Quadrilateral Cowboy,2016 Jul,pc
+Rabi-Ribi,2016 Jan,pc
+Samorost 3,2016 Mar,pc
+Slayaway Camp,2016 Oct,pc
+Songs for a Hero - A Lenda do Heroi,2016 Apr,pc
+SpeedRunners,2016 Apr,pc
+Stephen's Sausage Roll,2016 Apr,pc
+The Banner Saga 2,2016 Apr,pc
+The Count Lucanor,2016 Mar,pc
+Wuppo,2016 Sep,pc
+Zombie Night Terror,2016 Jul,pc
+Bleed 2,2017 Feb,pc
+Cat Quest,2017 Aug,pc
+Darkwood,2017 Aug,pc,bought
+Detention,2017 Jan,pc
+Doki Doki Literature Club!,2017 Sep,pc
+Emily is Away Too,2017 May,pc
+Fight'N Rage,2017 Sep,pc
+Finding Paradise,2017 Dec,pc
+Forza Motorsport 7,2017 Oct,pc
+Gorogoa,2017 Dec,pc
+Heat Signature,2017 Sep,pc
+Hidden Folks,2017 Feb,pc
+HIVESWAP: Act 1,2017 Sep,pc
+Monolith,2017 Jun,pc
+Opus Magnum,2017 Dec,pc
+Paradigm,2017 Apr,pc
+Planescape: Torment - Enhanced Edition,2017 Apr,pc
+Rakuen,2017 May,pc
+Rivals of Aether,2017 Mar,pc
+Slime Rancher,2017 Aug,pc
+Splasher,2017 Feb,pc
+Subsurface Circular,2017 Aug,pc
+Tales of Berseria,2017 Jan,pc
+The End Is Nigh,2017 Jul,pc
+The Legend of Heroes: Trails in the Sky the 3rd,2017 May,pc
+Thimbleweed Park,2017 Mar,pc
+Tormentor X Punisher,2017 Jun,pc
+Total War: WARHAMMER II,2017 Sep,pc
+West of Loathing,2017 Aug,pc
+428: Shibuya Scramble,2018 Sep,pc
+DUSK,2018 Dec,pc
+FAR: Lone Sails,2018 May,pc
+Forza Horizon 4,2018 Oct,pc
+Full Metal Furies,2018 Jan,pc
+Iconoclasts,2018 Jan,pc
+Into the Breach,2018 Feb,pc
+Just Shapes & Beats,2018 May,pc
+LUMINES REMASTERED,2018 Jun,pc
+Pillars of Eternity II: Deadfire,2018 May,pc
+Pit People,2018 Mar,pc
+Return of the Obra Dinn,2018 Oct,pc
+RimWorld,2018 Oct,pc
+The Awesome Adventures of Captain Spirit,2018 Jun,pc
+The Gardens Between,2018 Sep,pc
+The Red Strings Club,2018 Jan,pc
+Thronebreaker: The Witcher Tales,2018 Oct,pc
+Unavowed,2018 Aug,pc
+Wandersong,2018 Sep,pc
+Yoku's Island Express,2018 May,pc,bought
+Youropa,2018 Jun,pc,bought
+Age of Empires II: Definitive Edition,2019 Nov,pc
+Amid Evil,2019 Jun,pc
+APE OUT,2019 Feb,pc
+Arcade Spirits,2019 Feb,pc
+Baba Is You,2019 Mar,pc
+Bug Fables: The Everlasting Sapling,2019 Nov,pc
+Children of Morta,2019 Sep,pc
+Dicey Dungeons,2019 Aug,pc
+Frog Detective 2: The Case of the Invisible Wizard,2019 Dec,pc
+Gato Roboto,2019 May,pc
+Ion Fury,2019 Aug,pc
+Islanders,2019 Apr,pc
+Katana ZERO,2019 Apr,pc
+Kind Words (lo fi chill beats to write to),2019 Sep,pc
+Manifold Garden,2019 Oct,pc
+My Friend Pedro,2019 Jun,pc
+Noita,2019 Sep,pc
+One Finger Death Punch 2,2019 Apr,pc
+Oxygen Not Included,2019 Jul,pc
+Pikuniku,2019 Jan,pc
+Raging Loop,2019 Aug,pc
+Reventure,2019 Jun,pc
+Streets of Rogue,2019 Jul,pc
+Supraland,2019 Apr,pc
+Touhou Luna Nights,2019 Feb,pc
+Yakuza Kiwami,2019 Feb,pc,bought
+Yuppie Psycho,2019 Apr,pc
+Command & Conquer Remastered Collection,2020 Jun,pc
+Cook Serve Delicious! 3?!,2020 Oct,pc
+Crusader Kings III,2020 Sep,pc
+Deep Rock Galactic,2020 May,pc
+Desperados III,2020 Jun,pc
+Disc Room,2020 Oct,pc
+Factorio,2020 Aug,pc
+Gears Tactics,2020 Apr,pc
+Ghostrunner,2020 Oct,pc
+Hades,2020 Sep,pc
+Lair of the Clockwork God,2020 Feb,pc
+Monster Train,2020 May,pc
+Ori and the Will of the Wisps,2020 Mar,pc
+Post Void,2020 Aug,pc
+Story of Seasons: Friends of Mineral Town,2020 Jul,pc
+The Pedestrian,2020 Jan,pc
+The Procession to Calvary,2020 Apr,pc
+WHAT THE GOLF?,2020 Oct,pc
+WORLD OF HORROR,2020 Feb,pc
+Assassin's Creed Valhalla,2020 Nov,ps5
+Yakuza: Like a Dragon,2020 Nov,ps4
+Chicken Police,2020 Nov,pc
+Marvel's Spider-Man: Miles Morales,2020 Nov,ps5
+Paradise Killer,2020 Sep,pc
+Sackboy: A Big Adventure,2020 Nov,ps5
