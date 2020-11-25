@@ -1,24 +1,33 @@
 let displayDiv = document.getElementById("page-wrapper");
 let inputSearch = document.getElementById("search-game");
 let gameList = document.getElementById("game-list");
+let searchBtn = document.getElementById("searchBtn")
 let gamesObj = [];
 
 
 async function letsFetch() {
-    await fetch('ps.txt')
-        .then(response => response.text())
-        .then(data => {
-            let gamesArray = data.split('\n')
-            for (games of gamesArray) {
-                let game = games.split(",")
-                gamesObj.push({ title: game[0], release: new Date(game[1]), platform: game[2], purchased: game[3] === undefined ? false : game[3] })
+    const response = await fetch('ps.txt')
+        if (response.ok) {
+            const data = await response.text()
+                let gamesArray = data.split('\n')
+                for (games of gamesArray) {
+                    let game = games.split(",")
+                    gamesObj.push({ title: game[0], 
+                                    release: new Date(game[1]), 
+                                    platform: game[2], 
+                                    purchased: game[3] === undefined ? false : game[3] })
+                }
+                sortObj();
             }
-            sortObj();
-        })
+        }
+
+async function getGameArt(game) {
+    const res = await fetch (`https://api.rawg.io/api/games?key=1d6d06812aa64d85b324e338682f0bb3&search=${game}`);
+    const data = await res.json();
+    return data.results[0].background_image;
 }
 
-
-const displayResults = () => {
+async function displayResults() {
     gameList.innerHTML = "";
     for (const game of gamesObj) {
         if (game.title.toLowerCase().includes(inputSearch.value.toLowerCase())) {
@@ -30,6 +39,12 @@ const displayResults = () => {
             let displayGameName = document.createElement("p");
             let displayGameYear = document.createElement("p");
             let displayGameConsole = document.createElement("p");
+            let img = document.createElement("img")
+            if(await getGameArt(game.title)) {
+                img.src =  await getGameArt(game.title);
+            } else {
+                gameDiv.style.backgroundColor = 'black';
+            }
             displayGameName.classList.add("game-name");
             displayGameYear.classList.add("game-year");
             displayGameConsole.classList.add("game-console");
@@ -39,6 +54,7 @@ const displayResults = () => {
             gameDiv.appendChild(displayGameName);
             gameDiv.appendChild(displayGameYear);
             gameDiv.appendChild(displayGameConsole);
+            gameDiv.appendChild(img)
             gameList.appendChild(gameDiv);
         }
     }
@@ -54,4 +70,5 @@ const sortObj = () => {
         return cmp(a.release, b.release) || cmp(a.title, b.title)
     })
 }
-inputSearch.addEventListener('search', displayResults);
+
+searchBtn.addEventListener('click', displayResults);

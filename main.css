@@ -46,7 +46,16 @@ body {
     margin: 0.5em;
     text-transform: uppercase;
     font-weight: 700;
-    background-color: #0f3460;
+    background-color: rgba(0,0,0,0.65);
+    overflow: hidden;
+}
+
+.gameContainer img{
+    position: absolute;
+    z-index: -1;
+    opacity: 1;
+    min-height: 100%;
+    width: 100%;
 }
 
 .bought::before {
@@ -65,6 +74,7 @@ body {
     font-size: 1.1rem;
     margin: 0.2em 0.4em;
     letter-spacing: 1px;
+    opacity: 1
 }
 
 .game-name {
