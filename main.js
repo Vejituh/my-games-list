@@ -45,14 +45,17 @@ async function displayResults() {
             let displayGameConsole = document.createElement("p");
             let img = document.createElement("img")
             if (screen.width > 768) {
-                console.log(await getGameArt(game.title))
-                if(await getGameArt(game.title) === 401) {
-                    gameDiv.style.backgroundColor = 'black';
-                } else {
-                    img.src =  getGameArt(game.title);
+                try {
+                    if(await getGameArt(game.title)) {
+                        img.src =  await getGameArt(game.title);
+                        }
+                }
+                catch (err) {
+                        console.log(err);
+                        checkPlatform(game, gameDiv);
                 }
             } else {
-                gameDiv.style.backgroundColor = 'black';
+                checkPlatform(game, gameDiv);
             }
             displayGameName.classList.add("game-name");
             displayGameYear.classList.add("game-year");
@@ -66,6 +69,27 @@ async function displayResults() {
             gameDiv.appendChild(img)
             gameList.appendChild(gameDiv);
         }
+    }
+}
+
+function checkPlatform(game, gameDiv) {
+    if (game.platform === 'switch') {
+        gameDiv.style.backgroundImage = 'linear-gradient(to right, #27A8D8, #DF4E45)';
+        gameDiv.style.color = '#252429'
+    } else if (game.platform === 'ps1') {
+        gameDiv.style.backgroundImage = 'linear-gradient(to right, #AAA6A5, #AFC6E4)';
+        gameDiv.style.color = '#3E3C3E'
+    } else if (game.platform === 'ps2') {
+        gameDiv.style.backgroundImage = 'linear-gradient(to right, #292E32, #254C87)';
+    } else if (game.platform === 'ps3') {
+        gameDiv.style.backgroundImage = 'linear-gradient(to right, #0E0E10, #3F3F3F)';
+    } else if (game.platform === 'ps4') {
+        gameDiv.style.backgroundImage = 'linear-gradient(to right, #0B0D0C, #232228)';
+    } else if (game.platform === 'ps5') {
+        gameDiv.style.backgroundImage = 'linear-gradient(to right, #DBDFE8, #7B81F4)';
+        gameDiv.style.color = '#030A12'
+    } else if (game.platform === 'pc') {
+        gameDiv.style.backgroundImage = 'linear-gradient(to right, #171A21, #173E59)';
     }
 }
 
