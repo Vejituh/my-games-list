@@ -1,7 +1,6 @@
 let displayDiv = document.getElementById("page-wrapper");
 let inputSearch = document.getElementById("search-game");
 let gameList = document.getElementById("game-list");
-let searchBtn = document.getElementById("searchBtn")
 let gamesObj = [];
 
 
@@ -22,9 +21,14 @@ async function letsFetch() {
         }
 
 async function getGameArt(game) {
-    const res = await fetch (`https://api.rawg.io/api/games?key=1d6d06812aa64d85b324e338682f0bb3&search=${game}`);
-    const data = await res.json();
-    return data.results[0].background_image;
+    const res = await fetch (`https://api.rawg.io/api/games?key=de9084d514ad43f4ac46fa3101f4fafd&search=${game}`);
+        if (res.ok) {
+            const data = await res.json();
+            return data.results[0].background_image;
+        }
+        else {
+            return res.status;
+        }
 }
 
 async function displayResults() {
@@ -40,8 +44,13 @@ async function displayResults() {
             let displayGameYear = document.createElement("p");
             let displayGameConsole = document.createElement("p");
             let img = document.createElement("img")
-            if(await getGameArt(game.title)) {
-                img.src =  await getGameArt(game.title);
+            if (screen.width > 768) {
+                console.log(await getGameArt(game.title))
+                if(await getGameArt(game.title) === 401) {
+                    gameDiv.style.backgroundColor = 'black';
+                } else {
+                    img.src =  getGameArt(game.title);
+                }
             } else {
                 gameDiv.style.backgroundColor = 'black';
             }
@@ -71,4 +80,4 @@ const sortObj = () => {
     })
 }
 
-searchBtn.addEventListener('click', displayResults);
+inputSearch.addEventListener('search', displayResults);
