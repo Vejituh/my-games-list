@@ -164,7 +164,7 @@ Dark Souls II: Scholar of the First Sin,2015 Apr,ps4
 Devil May Cry 4: Special Edition,2015 Jun,ps4
 Disgaea 5: Alliance of Vengeance,2015 Oct,ps4
 Divinity: Original Sin Enhanced Edition,2015 Oct,ps4
-Fallout 4,2015 Nov,ps4
+Fallout 4,2015 Nov,ps4,bought
 Helldivers,2015 Mar,ps4
 Hotline Miami 2: Wrong Number,2015 Mar,ps4
 N++,2015 Jul,ps4
@@ -190,7 +190,7 @@ SteamWorld Heist,2016 Jun,ps4
 Steins;Gate 0,2016 Nov,ps4
 The Elder Scrolls V: Skyrim Special Edition,2016 Oct,ps4
 The King of Fighters XIV,2016 Aug,ps4
-The Last Guardian,2016 Dec,ps4
+The Last Guardian,2016 Dec,ps4,bought
 The Witness,2016 Jan,ps4,bought
 Thumper,2016 Oct,ps4
 A Hat in Time,2017 Dec,ps4
@@ -210,7 +210,7 @@ Night in the Woods,2017 Feb,ps4,bought
 Nioh,2017 Feb,ps4,bought
 Pillars of Eternity: Complete Edition,2017 Aug,ps4
 Polybius,2017 May,ps4
-Resident Evil 7: Biohazard,2017 Jan,ps4
+Resident Evil 7: Biohazard,2017 Jan,ps4,bought
 South Park: The Fractured But Whole,2017 Oct,ps4
 SteamWorld Dig 2,2017 Sep,ps4
 The Sexy Brutale,2017 Apr,ps4
