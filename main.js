@@ -2,6 +2,7 @@ let displayDiv = document.getElementById("page-wrapper");
 let inputSearch = document.getElementById("search-game");
 let gameList = document.getElementById("game-list");
 let gamesObj = [];
+let failedToFetch = false;
 
 
 const letsFetch = async ()  => {
@@ -24,13 +25,14 @@ const getGameArt = async (game) => {
     try {
         const res = await fetch (`https://api.rawg.io/api/games?key=de9084d514ad43f4ac46fa3101f4fafd&search=${game}`);
         if (!res.ok) {
-            throw new Error(res.status);
+            throw new Error('Error');
         }
             const data = await res.json();
             return data.results[0].background_image;
     }
     catch (error) {
         console.log(error);
+        failedToFetch = true;
     }
 }
 
@@ -47,14 +49,9 @@ const displayResults = async () => {
             let displayGameYear = document.createElement("p");
             let displayGameConsole = document.createElement("p");
             let img = document.createElement("img")
-            if (screen.width > 768) {
-                try {
+            if (screen.width > 768 && !failedToFetch) {
                         img.src =  await getGameArt(game.title);
-                    }
-                catch (err) {
-                        console.log(err);
-                }
-                checkPlatform(game, gameDiv);
+                        checkPlatform(game, gameDiv);
             } else {
                 checkPlatform(game, gameDiv);
             }
