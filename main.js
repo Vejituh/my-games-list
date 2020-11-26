@@ -30,14 +30,14 @@ const getGameArt = async (game) => {
             const data = await res.json();
             return data.results[0].background_image;
     }
-    catch (error) {
-        console.log(error);
+    catch{
         failedToFetch = true;
     }
 }
 
 const displayResults = async () => {
     gameList.innerHTML = "";
+    await getGameArt(gamesObj[0].title);
     for (const game of gamesObj) {
         if (game.title.toLowerCase().includes(inputSearch.value.toLowerCase())) {
             let gameDiv = document.createElement("div");
@@ -51,7 +51,6 @@ const displayResults = async () => {
             let img = document.createElement("img")
             if (screen.width > 768 && !failedToFetch) {
                         img.src =  await getGameArt(game.title);
-                        checkPlatform(game, gameDiv);
             } else {
                 checkPlatform(game, gameDiv);
             }
