@@ -4,7 +4,7 @@ let gameList = document.getElementById("game-list");
 let gamesObj = [];
 
 
-async function letsFetch() {
+const letsFetch = async ()  => {
     const response = await fetch('ps.txt')
         if (response.ok) {
             const data = await response.text()
@@ -20,18 +20,21 @@ async function letsFetch() {
             }
         }
 
-async function getGameArt(game) {
-    const res = await fetch (`https://api.rawg.io/api/games?key=de9084d514ad43f4ac46fa3101f4fafd&search=${game}`);
-        if (res.ok) {
+const getGameArt = async (game) => {
+    try {
+        const res = await fetch (`https://api.rawg.io/api/games?key=de9084d514ad43f4ac46fa3101f4fafd&search=${game}`);
+        if (!res.ok) {
+            throw new Error(res.status);
+        }
             const data = await res.json();
             return data.results[0].background_image;
-        }
-        else {
-            return res.status;
-        }
+    }
+    catch (error) {
+        console.log(error);
+    }
 }
 
-async function displayResults() {
+const displayResults = async () => {
     gameList.innerHTML = "";
     for (const game of gamesObj) {
         if (game.title.toLowerCase().includes(inputSearch.value.toLowerCase())) {
@@ -46,14 +49,12 @@ async function displayResults() {
             let img = document.createElement("img")
             if (screen.width > 768) {
                 try {
-                    if(await getGameArt(game.title)) {
                         img.src =  await getGameArt(game.title);
-                        }
-                }
+                    }
                 catch (err) {
                         console.log(err);
-                        checkPlatform(game, gameDiv);
                 }
+                checkPlatform(game, gameDiv);
             } else {
                 checkPlatform(game, gameDiv);
             }
