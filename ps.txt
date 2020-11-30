@@ -1,5 +1,5 @@
 Wipeout,1995 Sep,ps1
-Street Fighter Alpha: Warriors' Dream,1996 Apr,ps1
+Street Fighter Alpha: Warriors' Dream,1996 Apr,ps1,bought
 Tekken 2,1996 Oct,ps1
 Tomb Raider,1996 Nov,ps1
 X-COM: Terror from the Deep,1996 Dec,ps1
@@ -15,7 +15,7 @@ Dino Crisis,1999 Oct,ps1
 Final Fantasy VIII (Remastered),1999 Oct,ps1
 Metal Gear Solid,1999 Feb,ps1
 Silent Hill (Shattered Memories),1999 Feb,ps1
-Street Fighter Alpha 3 (30th Anniversary Collection),1999 Jun,ps1
+Street Fighter Alpha 3 (30th Anniversary Collection),1999 Jun,ps1,bought
 Tony Hawk's Pro Skater 1  (1 + 2 remake),1999 Oct,ps1
 Chrono Cross,2000 Aug,ps1
 Gran Turismo 2,2000 Jan,ps1
