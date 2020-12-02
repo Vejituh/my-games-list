@@ -1,5 +1,4 @@
 Wipeout,1995 Sep,ps1
-Street Fighter Alpha: Warriors' Dream,1996 Apr,ps1,bought
 Tekken 2,1996 Oct,ps1
 Tomb Raider,1996 Nov,ps1
 X-COM: Terror from the Deep,1996 Dec,ps1
@@ -158,7 +157,6 @@ The Wolf Among Us,2014 Nov,ps4
 Valiant Hearts: The Great War,2014 Jun,ps4
 Axiom Verge,2015 Apr,ps4
 BlazBlue: Chrono Phantasma EXTEND,2015 Oct,ps4
-Bloodborne,2015 Mar,ps4,bought
 DARIUSBURST Chronicle Saviours,2015 Dec,ps4
 Dark Souls II: Scholar of the First Sin,2015 Apr,ps4
 Devil May Cry 4: Special Edition,2015 Jun,ps4
