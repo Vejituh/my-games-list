@@ -250,7 +250,6 @@ Devil May Cry 5,2019 Mar,ps4
 Fell Seal: Arbiter's Mark,2019 Apr,ps4
 Judgment,2019 Jun,ps4
 Kingdom Hearts III,2019 Jan,ps4
-Mortal Kombat 11,2019 Apr,ps4
 NieR: Automata Game of the YoRHa Edition,2019 Mar,ps4
 Outer Wilds,2019 Oct,ps4
 Risk of Rain 2,2019 Aug,ps4
@@ -544,3 +543,5 @@ Football Manager 2021,2020 Nov,pc
 Visage,2020 Oct,ps4
 Sakuna: Of Rice and Ruin,2020 Nov,switch
 DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition,2020 Dec,ps4
+Hyrule Warriors: Age of Calamity,2020 Nov,switch
+Mortal Kombat 11 Ultimate,2020 Nov,ps4
