@@ -493,9 +493,9 @@ APE OUT,2019 Feb,pc
 Arcade Spirits,2019 Feb,pc
 Baba Is You,2019 Mar,pc
 Bug Fables: The Everlasting Sapling,2019 Nov,pc
-Children of Morta,2019 Sep,pc
+Children of Morta,2019 Sep,pc,bought
 Dicey Dungeons,2019 Aug,pc
-Frog Detective 2: The Case of the Invisible Wizard,2019 Dec,pc
+Frog Detective 2: The Case of the Invisible Wizard,2019 Dec,pc,bought
 Gato Roboto,2019 May,pc
 Ion Fury,2019 Aug,pc
 Islanders,2019 Apr,pc
