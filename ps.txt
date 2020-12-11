@@ -546,3 +546,4 @@ DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition,2020 Dec,ps4
 Hyrule Warriors: Age of Calamity,2020 Nov,switch
 Mortal Kombat 11 Ultimate,2020 Nov,ps4
 Cyberpunk 2077,2020 Dec,ps5
+Monster Sanctuary,2020 Dec,pc
