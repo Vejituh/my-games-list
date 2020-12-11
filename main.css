@@ -9,22 +9,11 @@ body {
     justify-content: center;
     min-height: 100vh;
     margin: 0;
-    padding: 0;
+    padding: 2em;
     font-size: 1rem;
     color: #000000;
-    font-family: 'Open Sans', sans-serif;
-}
-
-body::before {
-    overflow: hidden;
-    z-index: -1;
-    display: block;
-    position: absolute;
-    content: "";
-    min-width: 100vw;
-    min-height: 100%;
     background: rgba(29, 53, 87, 1);
-    filter: blur(25px);
+    font-family: 'Open Sans', sans-serif;
 }
 
 .search-input {
@@ -54,7 +43,7 @@ body::before {
     display: grid;
     place-items: center;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    grid-gap: 1.5em;
+    grid-gap: 2em;
     width: 90%;
     max-width: 1500px;
 }
