@@ -4,40 +4,32 @@ let gameList = document.getElementById("game-list");
 let gamesObj = [];
 let failedToFetch = false;
 
+const getGamesFile = async () => {
+    try {
+        let response = await fetch('https://raw.githubusercontent.com/rafaelg1402/my-games-list/main/ps.txt') 
+    let data = await response.text();
+    return data;
+    }
+    catch (e){
+        console.log(e)
+    }
+}
 
-const letsFetch = async ()  => {
-    const response = await fetch('ps.txt')
-        if (response.ok) {
-            const data = await response.text()
+const splitFile = (data)  => {
                 let gamesArray = data.split('\n')
                 for (games of gamesArray) {
                     let game = games.split(",")
+                    let [year, month] = game[1].split(" ");
                     gamesObj.push({ title: game[0], 
-                                    release: new Date(game[1]), 
+                                    release: new Date(`${month} 01 ${year}`), 
                                     platform: game[2], 
                                     purchased: game[3] === undefined ? false : game[3] })
-                }
                 sortObj();
             }
         }
 
-const getGameArt = async (game) => {
-    try {
-        const res = await fetch (`https://api.rawg.io/api/games?key=de9084d514ad43f4ac46fa3101f4fafd&search=${game}`);
-        if (!res.ok) {
-            throw new Error('Error');
-        }
-            const data = await res.json();
-            return data.results[0].background_image;
-    }
-    catch{
-        failedToFetch = true;
-    }
-}
-
-const displayResults = async () => {
+const displayResults = () => {
     gameList.innerHTML = "";
-    await getGameArt(gamesObj[0].title);
     for (const game of gamesObj) {
         if (game.title.toLowerCase().includes(inputSearch.value.toLowerCase())) {
             let gameDiv = document.createElement("div");
@@ -48,12 +40,7 @@ const displayResults = async () => {
             let displayGameName = document.createElement("p");
             let displayGameYear = document.createElement("p");
             let displayGameConsole = document.createElement("p");
-            let img = document.createElement("img")
-            if (screen.width > 768 && !failedToFetch) {
-                        img.src =  await getGameArt(game.title);
-            } else {
-                checkPlatform(game, gameDiv);
-            }
+            checkPlatform(game, gameDiv);
             displayGameName.classList.add("game-name");
             displayGameYear.classList.add("game-year");
             displayGameConsole.classList.add("game-console");
@@ -63,7 +50,6 @@ const displayResults = async () => {
             gameDiv.appendChild(displayGameName);
             gameDiv.appendChild(displayGameYear);
             gameDiv.appendChild(displayGameConsole);
-            gameDiv.appendChild(img)
             gameList.appendChild(gameDiv);
         }
     }
@@ -101,4 +87,8 @@ const sortObj = () => {
     })
 }
 
-inputSearch.addEventListener('search', displayResults);
+getGamesFile()
+    .then(splitFile)
+    .catch(e => console.log(`Error: ${e}`));
+
+inputSearch.addEventListener('keyup', displayResults);
