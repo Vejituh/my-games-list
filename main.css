@@ -3,11 +3,13 @@
 }
 
 body {
-    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     min-height: 100vh;
+    margin: 0;
+    padding: 0;
     font-size: 1rem;
-    display: grid;
-    place-items: center;
     background-color: #85FFBD;
     background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
     color: #e8ffff;
@@ -17,7 +19,6 @@ body {
 .search-input {
     padding: 1.5em 2em;
     text-align: center;
-    min-width: 70%;
     margin: 0 auto;
     background-color: #39311D;
     font-size: 1rem;
@@ -37,22 +38,28 @@ body {
 }
 
 .gameList {
+    margin: 0 auto;
     padding: 1em;
     display: grid;
     place-items: center;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    grid-gap: 1em;
-    grid-area: column;
+    grid-gap: 1.5em;
+    width: 90%;
+    max-width: 1500px;
 }
 
 .gameContainer {
-    padding: 1em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 1.8em;
+    border-radius: 15px;
     width: 100%;
     height: 100%;
     position: relative;
     text-transform: uppercase;
     font-weight: 700;
-    background-color: rgba(0, 0, 0, 0.65);
+    box-shadow: 0 0 1em rgba(0, 0, 0, .25);
 }
 
 .bought::before {
@@ -63,7 +70,8 @@ body {
     height: 25px;
     margin: 0.5em;
     border-radius: 25px;
-    right: 5px;
+    top: 2%;
+    right: 0;
     background-color: #FFFB7D;
 }
 
@@ -71,22 +79,24 @@ body {
     font-size: 1.1rem;
     margin: 0.2em 0.4em;
     letter-spacing: 1px;
-    opacity: 1
+    opacity: 1;
 }
 
-.game-console, .game-year {
-    padding: 0 1.5em;
+.game-name {
+    width: 100%;
 }
 
-#page-wrapper {
-    display: grid;
-    grid-template-areas: ". header ." "column column column";
-    width: 90%;
-    max-width: 1600px;
+.game-year, .game-console {
+    width: 30%;
+    font-weight: 400;
+    align-self: flex-end;
+}
+
+.game-console {
+    text-align: right;
 }
 
 .main-btns {
-    grid-area: header;
     place-self: center;
     margin: 2em;
 }
