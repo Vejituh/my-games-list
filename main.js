@@ -40,40 +40,18 @@ const displayResults = () => {
             gameDiv.classList.add("gameContainer");
             let displayGameName = document.createElement("p");
             let displayGameYear = document.createElement("p");
-            let displayGameConsole = document.createElement("p");
-            checkPlatform(game, gameDiv);
+            let displayGameConsole = document.createElement("img");
             displayGameName.classList.add("game-name");
             displayGameYear.classList.add("game-year");
             displayGameConsole.classList.add("game-console");
             displayGameName.textContent = game.title;
             displayGameYear.textContent = `${game.release.getMonth() + 1}`.padStart(2, "0") + `/${game.release.getFullYear()}`;
-            displayGameConsole.textContent = game.platform;
+            displayGameConsole.src = `${game.platform}.png`;
             gameDiv.appendChild(displayGameName);
             gameDiv.appendChild(displayGameYear);
             gameDiv.appendChild(displayGameConsole);
             gameList.appendChild(gameDiv);
         }
-    }
-}
-
-function checkPlatform(game, gameDiv) {
-    if (game.platform === 'switch') {
-        gameDiv.style.backgroundImage = 'linear-gradient(to right, rgba(39, 168, 216, 0.9), rgba(223, 78, 69, 0.9))';
-        gameDiv.style.color = '#252429'
-    } else if (game.platform === 'ps1') {
-        gameDiv.style.backgroundImage = 'linear-gradient(to right, rgba(170, 166, 165, 0.9), rgba(175, 198, 228, 0.9))';
-        gameDiv.style.color = '#3E3C3E'
-    } else if (game.platform === 'ps2') {
-        gameDiv.style.backgroundImage = 'linear-gradient(to right, rgba(41, 46, 50, 0.9), rgba(37, 76, 135, 0.9))';
-    } else if (game.platform === 'ps3') {
-        gameDiv.style.backgroundImage = 'linear-gradient(to right, rgba(14, 14, 16, 0.9), rgba(63, 63, 63, 0.9))';
-    } else if (game.platform === 'ps4') {
-        gameDiv.style.backgroundImage = 'linear-gradient(to right, rgba(11, 13, 12, 0.9), rgba(35, 34, 40, 0.9))';
-    } else if (game.platform === 'ps5') {
-        gameDiv.style.backgroundImage = 'linear-gradient(to right, rgba(219, 223, 232, 0.8), rgba(123, 129, 244, 0.8))';
-        gameDiv.style.color = '#030A12'
-    } else if (game.platform === 'pc') {
-        gameDiv.style.backgroundImage = 'linear-gradient(to right, rgba(23, 26, 33, 0.9), rgba(23, 62, 89, 0.9))';
     }
 }
 
