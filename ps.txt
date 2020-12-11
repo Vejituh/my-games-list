@@ -2,7 +2,7 @@ Wipeout,1995 Sep,ps1
 Tekken 2,1996 Oct,ps1
 Tomb Raider,1996 Nov,ps1
 X-COM: Terror from the Deep,1996 Dec,ps1
-Castlevania: Symphony of the Night (Castlevania Requiem compilation),1997 Nov,ps1
+Castlevania: SOTN (Castlevania Requiem compilation),1997 Nov,ps1
 Final Fantasy VII (Remake),1997 Nov,ps1
 Formula 1 97,1997 Sep,ps1
 Alundra,1998 Jun,ps1
