@@ -95,7 +95,7 @@ body {
 
 .game-console {
     text-align: right;
-    height: 25px;
+    max-height: 25px;
     max-width: 75px;
     object-fit: contain;
 }
