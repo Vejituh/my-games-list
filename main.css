@@ -19,7 +19,7 @@ body {
 .search-input {
     padding: 1.5em 2em;
     text-align: center;
-    margin: 0 auto;
+    margin: 1em auto;
     background-color: #f1faee;
     font-size: 1rem;
     border-radius: 45px;
@@ -101,6 +101,88 @@ body {
 }
 
 .main-btns {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     place-self: center;
-    margin: 2em;
+    margin: 1.5em;
+    width: 90%;
+    max-width: 1100px;
+}
+.main-btns .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 2em;
+    margin: 1em 0;
+    color: #FFF;
+}
+.main-btns .card {
+    border-radius: 25px;
+    height: 200px;
+    padding: 2em;
+    position: relative;
+}
+
+.card::before {
+    background-size: cover;
+    background-position: top;
+    content: "";
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.50;
+    border-radius: 25px;
+}
+
+.allPlats, .plat {
+    display: flex;
+    justify-content: center;
+}
+
+.allPlats::before {
+    background-image: url("allPlats.jpeg");
+}
+
+.pc::before {
+    background-image: url("pc-game.jpg");
+}
+
+.ps1::before {
+    background-image: url("ps1-game.jpg");
+}
+
+.ps2::before {
+    background-image: url("ps2-game.jpg");
+}
+
+.ps3::before {
+    background-image: url("ps3-game.jpg");
+}
+
+.ps4::before {
+    background-image: url("ps4-game.jpg");
+}
+
+.ps5::before {
+    background-image: url("ps5-game.jpg");
+}
+
+.switch::before {
+    background-image: url("switch-game.jpg");
+}
+
+
+.plat span, .allPlats span {
+    position: relative;
+    align-self: flex-end;
+    font-size: 1.5rem;
+}
+
+
+@media (max-width:700px) {
+    .plat {
+        display: none;
+    }
 }

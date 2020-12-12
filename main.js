@@ -1,5 +1,6 @@
 let inputSearch = document.getElementById("search-game");
 let gameList = document.getElementById("game-list");
+let mainBtnDiv = document.querySelector(".main-btns");
 let gamesObj = [];
 let failedToFetch = false;
 
@@ -27,6 +28,51 @@ const splitFile = (data) => {
         })
         sortObj();
     }
+}
+
+const displayNumOfGames = () =>{
+    let pc = 0, ps1 = 0, ps2 = 0, ps3 = 0, ps4 = 0, ps5 = 0, Ninswitch = 0, maxNumOfGames;
+    maxNumOfGames = gamesObj.length + 1;
+    Object.values(gamesObj).forEach(game => {
+        switch(game.platform) {
+            case "pc":
+                pc++;
+            break;
+            case "ps1":
+                ps1++;
+            break;
+            case "ps2":
+                ps2++
+            break;
+            case "ps3":
+                ps3++;
+            break;
+            case "ps4":
+                ps4++;
+            break;
+            case "ps5":
+                ps5++
+            break;
+            case "switch":
+                Ninswitch++;
+            break;
+        }
+    })
+    let div = document.createElement("div");
+    div.classList.add("grid");
+    let divContent = `<div class="card allPlats"><span><strong>Games:</strong> ${maxNumOfGames}</span></div>
+                      <div class="card plat pc"><span><strong>PC:</strong> ${pc}</span></div>
+                      <div class="card plat ps1"><span><strong>PS1:</strong> ${ps1}</span></div>
+                      <div class="card plat ps2"><span><strong>PS2:</strong> ${ps2}</span></div>
+                      <div class="card plat ps3"><span><strong>PS3:</strong> ${ps3}</span></div>
+                      <div class="card plat ps4"><span><strong>PS4:</strong> ${ps4}</span></div>
+                      <div class="card plat ps5"><span><strong>PS5:</strong> ${ps5}</span></div>
+                      <div class="card plat switch"><span><strong>Switch:</strong> ${Ninswitch}</span></div>
+                    `;
+    div.innerHTML = divContent
+    mainBtnDiv.appendChild(div);
+    
+
 }
 
 const displayResults = () => {
@@ -68,6 +114,7 @@ const sortObj = () => {
 
 getGamesFile()
     .then(splitFile)
+    .then(displayNumOfGames)
     .catch(e => console.log(`Error: ${e}`));
 
 inputSearch.addEventListener('keyup', displayResults);
