@@ -141,35 +141,35 @@ body {
 }
 
 .allPlats::before {
-    background-image: url("allPlats.webp");
+    background-image: url("resources/images/allPlats.webp");
 }
 
 .pc::before {
-    background-image: url("pc-game.webp");
+    background-image: url("resources/images/pc-game.webp");
 }
 
 .ps1::before {
-    background-image: url("ps1-game.webp");
+    background-image: url("resources/images/ps1-game.webp");
 }
 
 .ps2::before {
-    background-image: url("ps2-game.webp");
+    background-image: url("resources/images/ps2-game.webp");
 }
 
 .ps3::before {
-    background-image: url("ps3-game.webp");
+    background-image: url("resources/images/ps3-game.webp");
 }
 
 .ps4::before {
-    background-image: url("ps4-game.webp");
+    background-image: url("resources/images/ps4-game.webp");
 }
 
 .ps5::before {
-    background-image: url("ps5-game.webp");
+    background-image: url("resources/images/ps5-game.webp");
 }
 
 .switch::before {
-    background-image: url("switch-game.webp");
+    background-image: url("resources/images/switch-game.webp");
 }
 
 

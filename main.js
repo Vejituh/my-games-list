@@ -92,7 +92,7 @@ const displayResults = () => {
             displayGameConsole.classList.add("game-console");
             displayGameName.textContent = game.title;
             displayGameYear.textContent = `${game.release.getMonth() + 1}`.padStart(2, "0") + `/${game.release.getFullYear()}`;
-            displayGameConsole.src = `${game.platform}.png`;
+            displayGameConsole.src = `resources/images/${game.platform}.webp`;
             gameDiv.appendChild(displayGameName);
             gameDiv.appendChild(displayGameYear);
             gameDiv.appendChild(displayGameConsole);
