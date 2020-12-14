@@ -51,30 +51,3 @@
     max-width: 75px;
     object-fit: contain;
 }
-.pc::before {
-    background-image: url("resources/images/pc-game.webp");
-}
-
-.ps1::before {
-    background-image: url("resources/images/ps1-game.webp");
-}
-
-.ps2::before {
-    background-image: url("resources/images/ps2-game.webp");
-}
-
-.ps3::before {
-    background-image: url("resources/images/ps3-game.webp");
-}
-
-.ps4::before {
-    background-image: url("resources/images/ps4-game.webp");
-}
-
-.ps5::before {
-    background-image: url("resources/images/ps5-game.webp");
-}
-
-.switch::before {
-    background-image: url("resources/images/switch-game.webp");
-}

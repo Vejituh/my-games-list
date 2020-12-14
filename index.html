@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang "en">
+<html lang="en">
 
 <head>
     <title>My Games</title>
@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width" , inital-scale="1">
     <meta charset="utf-8">
     <style type="text/css">
-    * {box-sizing: border-box;}body {position: relative;display: flex;flex-direction: column;justify-content: center;min-height: 100vh;margin: 0;padding: 2em;font-size: 1rem;color: #000000;background: rgba(29, 53, 87, 1);font-family: 'Open Sans', sans-serif;}.search-input {padding: 1.5em 2em;text-align: center;margin: 1em auto;background-color: #f1faee;font-size: 1rem;border-radius: 45px;letter-spacing: 1px;border: none;color: #000000;}.search-input::placeholder {opacity: 0.75;color: #14213d;}.gameList {margin: 0 auto;display: grid;place-items: center;grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));grid-gap: 1.5em;width: 100%;max-width: 1500px;}.main-btns {display: flex;flex-direction: column;justify-content: center;place-self: center;margin: 1.5em;width: 90%;max-width: 1100px;}.main-btns .grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));grid-gap: 2em;margin: 1em 0;color: #FFF;}.main-btns .card {border-radius: 25px;height: 200px;padding: 2em;position: relative;}.card::before {background-size: cover;background-position: top;content: "";position: absolute;top: 0px;right: 0px;bottom: 0px;left: 0px;opacity: 0.50;border-radius: 25px;}.allPlats, .plat {display: flex;justify-content: center;}.allPlats::before {background-image: url("resources/images/allPlats.webp");}.plat span, .allPlats span {position: relative;align-self: flex-end;font-size: 1.5rem;}@media (max-width:700px) {.plat {display: none;}}@media (max-width:700px) {.main-btns {width: 100%;}}label[for="search-game"] {display: none;}
+    * {box-sizing: border-box;}body {position: relative;display: flex;flex-direction: column;justify-content: center;min-height: 100vh;margin: 0;padding: 2em;font-size: 1rem;color: #000000;background: rgba(29, 53, 87, 1);font-family: 'Open Sans', sans-serif;}.search-input {padding: 1.5em 2em;text-align: center;margin: 1em auto;background-color: #f1faee;font-size: 1rem;border-radius: 45px;letter-spacing: 1px;border: none;color: #000000;}.search-input::placeholder {opacity: 0.75;color: #14213d;}.gameList {margin: 0 auto;display: grid;place-items: center;grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));grid-gap: 1.5em;width: 100%;max-width: 1500px;}.main-btns {display: flex;flex-direction: column;justify-content: center;place-self: center;margin: 1.5em;width: 90%;max-width: 1100px;}.main-btns .grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));grid-gap: 2em;margin: 1em 0;color: #FFF;}.main-btns .card {border-radius: 25px;height: 200px;padding: 2em;position: relative;}.card::before {background-size: cover;background-position: top;content: "";position: absolute;top: 0px;right: 0px;bottom: 0px;left: 0px;opacity: 0.50;border-radius: 25px;}.allPlats, .plat {display: flex;justify-content: center;}.allPlats::before {background-image: url("resources/images/allPlats.webp");}.plat span, .allPlats span {position: relative;align-self: flex-end;font-size: 1.5rem;}@media (max-width:700px) {.plat {display: none;}}@media (max-width:700px) {.main-btns {width: 100%;}}label[for="search-game"]{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.pc::before{background-image:url(resources/images/pc-game.webp)}.ps1::before{background-image:url(resources/images/ps1-game.webp)}.ps2::before{background-image:url(resources/images/ps2-game.webp)}.ps3::before{background-image:url(resources/images/ps3-game.webp)}.ps4::before{background-image:url(resources/images/ps4-game.webp)}.ps5::before{background-image:url(resources/images/ps5-game.webp)}.switch::before{background-image:url(resources/images/switch-game.webp)}
     </style>
     <link rel="stylesheet" rel="preload" href="main.css" as="style">
     <link rel="stylesheet" rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap">
@@ -15,9 +15,9 @@
 
 <body>
     <div class="main-btns">
-        <input incremental id="search-game" class="search-input" name="search-games" type="search"
+        <label for="search-game">Search for a game on the wishlist</label>
+            <input incremental id="search-game" class="search-input" type="search"
             placeholder="Enter Game Title">
-            <label for="search-game">Search for a game</label>
     </div>
     <div id="game-list" class="gameList"></div>
     <script src="main.js"></script>
