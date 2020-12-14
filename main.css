@@ -39,12 +39,11 @@ body {
 
 .gameList {
     margin: 0 auto;
-    padding: 1em;
     display: grid;
     place-items: center;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    grid-gap: 2em;
-    width: 90%;
+    grid-gap: 1.5em;
+    width: 100%;
     max-width: 1500px;
 }
 
@@ -54,7 +53,7 @@ body {
     justify-content: space-between;
     padding: 1.8em;
     border-radius: 15px;
-    width: 100%;
+    width: 90%;
     height: 100%;
     position: relative;
     text-transform: uppercase;
@@ -184,5 +183,11 @@ body {
 @media (max-width:700px) {
     .plat {
         display: none;
+    }
+}
+
+@media (max-width:700px) {
+    .main-btns {
+       width: 100%;
     }
 }

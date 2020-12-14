@@ -246,7 +246,7 @@ Catherine: Full Body,2019 Sep,ps4
 Control,2019 Aug,ps4
 Crash Team Racing Nitro-Fueled,2019 Jun,ps4
 Death Stranding,2019 Nov,ps4
-Devil May Cry 5,2019 Mar,ps4
+Devil May Cry 5(special edition PS5),2019 Mar,ps4
 Fell Seal: Arbiter's Mark,2019 Apr,ps4
 Judgment,2019 Jun,ps4
 Kingdom Hearts III,2019 Jan,ps4
