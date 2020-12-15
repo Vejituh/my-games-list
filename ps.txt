@@ -1,10 +1,7 @@
-Wipeout,1995 Sep,ps1
 Tekken 2,1996 Oct,ps1
 Tomb Raider,1996 Nov,ps1
-X-COM: Terror from the Deep,1996 Dec,ps1
 Castlevania: SOTN (Requiem compilation),1997 Nov,ps1
 Final Fantasy VII (Remake),1997 Nov,ps1
-Formula 1 97,1997 Sep,ps1
 Alundra,1998 Jun,ps1
 Final Fantasy Tactics,1998 Jan,ps1
 Gran Turismo,1998 May,ps1
@@ -59,7 +56,6 @@ Ratchet & Clank 2: Going Commando (HD),2003 Nov,ps2
 Silent Hill 3,2003 May,ps2
 Soulcalibur II (HD),2003 Sep,ps2
 SSX 3,2003 Oct,ps2
-The Lord of the Rings: The Return of the King,2003 Nov,ps2
 Tom Clancy's Splinter Cell (Splinter cell Trilogy),2003 Apr,ps2
 Tony Hawk's Underground,2003 Nov,ps2
 Virtua Fighter 10th Anniversary,2003 Nov,ps2
@@ -102,17 +98,14 @@ Ratchet & Clank Future: A Crack in Time,2009 Nov,ps3
 Battlefield: Bad Company 2,2010 Mar,ps3
 BioShock 2 (Collection),2010 Feb,ps3,bought
 Castle Crashers (PS4 Remaster),2010 Nov,ps3
-DeathSpank,2010 Jul,ps3
 Grand Theft Auto: Episodes from Liberty City,2010 Apr,ps3
 Lara Croft and the Guardian of Light,2010 Aug,ps3
 Need for Speed: Hot Pursuit (PS4 Remaster),2010 Nov,ps3
 Red Dead Redemption,2010 May,ps3
 Scott Pilgrim vs. the World: The Game (PS4),2010 Aug,ps3
-Tales of Monkey Island,2010 Jun,ps3
 Crysis,2011 Oct,ps3
 Dark Souls (Remastered),2011 Sep,ps3
 Dead Space 2,2011 Jan,ps3
-Dungeon Defenders (Linux),2011 Dec,ps3
 LittleBigPlanet 2,2011 Jan,ps3
 Mass Effect 2,2011 Jan,ps3
 Mortal Kombat,2011 Apr,ps3
@@ -127,10 +120,8 @@ Mass Effect 3,2012 Mar,ps3
 Max Payne 3,2012 May,ps3
 Okami HD (Linux),2012 Oct,ps3,bought
 Persona 4 Arena,2012 May,ps3
-Dragon's Crown (PS4),2013 Oct,ps3
 Dragon's Dogma: Dark Arisen (PS4),2013 Apr,ps3
 Hotline Miami (PS4),2013 Jun,ps3
-LEGO Marvel Super Heroes (PS4),2013 Nov,ps3
 Ni no Kuni: Wrath of the White Witch (Remaster),2013 Feb,ps3
 Puppeteer,2013 Sep,ps3
 Spelunky,2013 Aug,ps3
@@ -152,20 +143,15 @@ Middle-earth: Shadow of Mordor,2014 Oct,ps4
 Plants vs. Zombies: Garden Warfare,2014 Jun,ps4
 Rogue Legacy,2014 Jul,ps4
 The Binding of Isaac: Rebirth,2014 Nov,ps4
-The Walking Dead: Season Two,2014 Oct,ps4
 The Wolf Among Us,2014 Nov,ps4
 Valiant Hearts: The Great War,2014 Jun,ps4
 Axiom Verge,2015 Apr,ps4
 BlazBlue: Chrono Phantasma EXTEND,2015 Oct,ps4
-DARIUSBURST Chronicle Saviours,2015 Dec,ps4
 Dark Souls II: Scholar of the First Sin,2015 Apr,ps4
 Devil May Cry 4: Special Edition,2015 Jun,ps4
 Disgaea 5: Alliance of Vengeance,2015 Oct,ps4
 Divinity: Original Sin Enhanced Edition,2015 Oct,ps4
-Fallout 4,2015 Nov,ps4,bought
-Helldivers,2015 Mar,ps4
 Hotline Miami 2: Wrong Number,2015 Mar,ps4
-N++,2015 Jul,ps4
 Nuclear Throne,2015 Dec,ps4
 Shovel Knight,2015 Apr,ps4
 The Talos Principle: Deluxe Edition,2015 Oct,ps4
@@ -178,14 +164,11 @@ Enter the Gungeon,2016 Apr,ps4
 Guilty Gear Xrd -REVELATOR-,2016 May,ps4
 INSIDE,2016 Aug,ps4
 Mortal Kombat XL,2016 Mar,ps4
-Naruto Shippuden: Ultimate Ninja Storm 4,2016 Feb,ps4
 Odin Sphere: Leifthrasir,2016 Jun,ps4
-Oxenfree,2016 May,ps4
+Oxenfree,2016 May,ps4,bought
 Plants vs. Zombies: Garden Warfare 2,2016 Feb,ps4
-Rez Infinite,2016 Oct,ps4
 Shantae: Half-Genie Hero,2016 Dec,ps4
 SteamWorld Heist,2016 Jun,ps4
-Steins;Gate 0,2016 Nov,ps4
 The Elder Scrolls V: Skyrim Special Edition,2016 Oct,ps4
 The King of Fighters XIV,2016 Aug,ps4
 The Last Guardian,2016 Dec,ps4,bought
@@ -195,7 +178,6 @@ A Hat in Time,2017 Dec,ps4
 Danganronpa 1 & 2 Reload,2017 Jan,ps4
 Danganronpa V3: Killing Harmony,2017 Jan,ps4
 Dishonored: Death of the Outsider,2017 Sep,ps4,bought
-Dragon's Dogma: Dark Arisen,2017 Jan,ps4
 Full Throttle Remastered,2017 Apr,ps4
 Gravity Rush 2,2017 Jan,ps4
 Guilty Gear Xrd Rev 2,2017 May,ps4
@@ -203,11 +185,9 @@ Hatsune Miku: Project DIVA Future Tone,2017 Jan,ps4
 Hellblade: Senua's Sacrifice (Linux),2017 Aug,ps4,bought
 L.A. Noire,2017 Nov,ps4
 LocoRoco Remastered,2017 Jun,ps4
-Nex Machina,2017 Jun,ps4
 Night in the Woods,2017 Feb,ps4,bought
 Nioh,2017 Feb,ps4,bought
 Pillars of Eternity: Complete Edition,2017 Aug,ps4
-Polybius,2017 May,ps4
 Resident Evil 7: Biohazard,2017 Jan,ps4,bought
 South Park: The Fractured But Whole,2017 Oct,ps4
 SteamWorld Dig 2,2017 Sep,ps4
@@ -247,7 +227,6 @@ Control,2019 Aug,ps4
 Crash Team Racing Nitro-Fueled,2019 Jun,ps4
 Death Stranding,2019 Nov,ps4
 Devil May Cry 5(special edition PS5),2019 Mar,ps4
-Fell Seal: Arbiter's Mark,2019 Apr,ps4
 Judgment,2019 Jun,ps4
 Kingdom Hearts III,2019 Jan,ps4
 NieR: Automata Game of the YoRHa Edition,2019 Mar,ps4
@@ -257,15 +236,11 @@ Samurai Shodown,2019 Jun,ps4
 Sayonara Wild Hearts,2019 Sep,ps4
 Sekiro: Shadows Die Twice,2019 Mar,ps4
 STAR WARS Jedi: Fallen Order,2019 Nov,ps4
-STEINS;GATE ELITE,2019 Feb,ps4
 Tales of Vesperia: Definitive Edition,2019 Jan,ps4
 The Legend of Heroes: Trails of Cold Steel,2019 Mar,ps4
 The Legend of Heroes: Trails of Cold Steel III,2019 Oct,ps4
 The Messenger,2019 Mar,ps4
-VA-11 Hall-A: Cyberpunk Bartender Action,2019 May,ps4
-Valfaris,2019 Oct,ps4
 Wreckfest,2019 Aug,ps4
-13 Sentinels: Aegis Rim,2020 Sep,ps4
 Crash Bandicoot 4: It's About Time,2020 Oct,ps4
 Creaks,2020 Jul,ps4
 CrossCode,2020 Jul,ps4
@@ -300,14 +275,12 @@ Ring Fit Adventure,2019 Oct,switch
 Super Mario Maker 2,2019 Jun,switch
 The Legend of Zelda: Link's Awakening,2019 Sep,switch
 Yoshi's Crafted World,2019 Mar,switch
-Rune Factory 4 Special,2020 Feb,switch
 Super Mario 3D All-Stars,2020 Sep,switch
 Xenoblade Chronicles: Definitive Edition,2020 May,switch
 Turok 2: Seeds of Evil,1998 Feb,pc
 Thief II: The Metal Age,2000 Mar,pc
 Return to Castle Wolfenstein,2001 Nov,pc
 The Elder Scrolls III: Morrowind,2002 May,pc
-Impossible Creatures,2003 Feb,pc
 Star Wars: Knights of the Old Republic,2003 Dec,pc
 Rome: Total War,2004 Oct,pc
 Vampire: The Masquerade – Bloodlines,2004 Nov,pc
@@ -324,37 +297,22 @@ Star Wars: Empire at War,2006 Feb,pc
 Warhammer 40000: Dawn of War,2006 Sep,pc
 Warhammer 40000: Dawn of War-Dark Crusade,2006 Oct,pc
 S.T.A.L.K.E.R.: Shadow of Chernobyl,2007 Mar,pc
-Supreme Commander,2007 Feb,pc
-Supreme Commander: Forged Alliance,2007 Nov,pc
 Audiosurf,2008 Feb,pc
 World of Goo,2008 Dec,pc
 Dragon Age: Origins,2009 Nov,pc
 Empire: Total War,2009 Mar,pc
-Machinarium,2009 Oct,pc
-The Secret of Monkey Island: Special Edition,2009 Jul,pc
 Amnesia: The Dark Descent,2010 Sep,pc
 Fallout: New Vegas,2010 Oct,pc
 Mafia II,2010 Aug,pc
-Mount & Blade: Warband,2010 Apr,pc
 Napoleon: Total War,2010 Feb,pc
 S.T.A.L.K.E.R.: Call of Pripyat,2010 Feb,pc
-StarCraft II: Wings of Liberty,2010 Jul,pc
 Super Meat Boy,2010 Nov,pc
-Dungeons of Dredmor,2011 Jul,pc
-Frozen Synapse,2011 May,pc
 Orcs Must Die!,2011 Oct,pc
-To the Moon,2011 Nov,pc
-Total War: Shogun 2,2011 Mar,pc
 Alan Wake,2012 Feb,pc
 Crusader Kings II,2012 Feb,pc
 Darksiders II,2012 Aug,pc
-FTL: Faster Than Light,2012 Sep,pc
-Guild Wars 2,2012 Aug,pc
-Legend of Grimrock,2012 Apr,pc
 Mark of the Ninja,2012 Oct,pc
 Orcs Must Die! 2,2012 Jul,pc
-Primordia,2012 Dec,pc
-Sins of a Solar Empire: Rebellion,2012 Jun,pc
 The Cat Lady,2012 Dec,pc
 Torchlight II,2012 Sep,pc
 Assassin's Creed IV: Black Flag,2013 Nov,pc
@@ -362,137 +320,56 @@ BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien,2013 Feb,pc
 Call of Juarez: Gunslinger,2013 May,pc
 Dust: An Elysian Tail,2013 May,pc
 Europa Universalis IV,2013 Aug,pc
-Fez,2013 May,pc
-Gunpoint,2013 Jun,pc
-Monaco: What's Yours Is Mine,2013 Apr,pc
-Pac-Man Championship Edition DX +,2013 Sep,pc
 Papers Please,2013 Aug,pc
-Sanctum 2,2013 May,pc
 Skulls of the Shogun,2013 Jan,pc
 The Stanley Parable,2013 Oct,pc
-Astebreed,2014 May,pc
-BattleBlock Theater,2014 May,pc
-Blackwell Epiphany,2014 Apr,pc
-Door Kickers,2014 Oct,pc
 Freedom Planet,2014 Jul,pc
-Jazzpunk,2014 Feb,pc
-Kero Blaster,2014 May,pc
-Legend of Grimrock 2,2014 Oct,pc
-LUFTRAUSERS,2014 Mar,pc
 Metal Gear Rising: Revengeance,2014 Jan,pc
 Sleeping Dogs: Definitive Edition,2014 Aug,pc
-Super Time Force Ultra,2014 Aug,pc
-Tales From The Borderlands,2014 Nov,pc
 The Banner Saga,2014 Jan,pc
-The Journey Down: Chapter Two,2014 Aug,pc
-This War of Mine,2014 Nov,pc
-TowerFall Ascension,2014 Mar,pc
-80 Days,2015 Sep,pc
-Assault Android Cactus,2015 Sep,pc
-Broforce,2015 Oct,pc
-Chroma Squad,2015 Apr,pc
-CLANNAD,2015 Apr,pc
-Downwell,2015 Oct,pc
-Dropsy,2015 Sep,pc
-Duck Game,2015 Jun,pc
 Hacknet,2015 Aug,pc
 Her Story,2015 Jun,pc
-Infinifactory,2015 Jun,pc
 Kerbal Space Program,2015 Apr,pc
 Lovers in a Dangerous Spacetime,2015 Sep,pc
 Mini Metro,2015 Nov,pc
-Mushihimesama,2015 Nov,pc
-Pillars of Eternity,2015 Mar,pc
-Prison Architect,2015 Oct,pc
 SOMA,2015 Sep,pc
-StarCraft II: Legacy of the Void,2015 Nov,pc
-Technobabylon,2015 May,pc
 The Legend of Heroes: Trails in the Sky SC,2015 Oct,pc
-Westerado: Double Barreled,2015 Apr,pc
-Crazy Machines 3,2016 Jun,pc
 Day of the Tentacle Remastered,2016 Mar,pc
-Devil Daggers,2016 Feb,pc
-DoDonPachi Resurrection,2016 Oct,pc
-Earth Defense Force 4.1: The Shadow of New Despair,2016 Jul,pc
-Epistory - Typing Chronicles,2016 Mar,pc
 Flat Heroes,2016 Sep,pc
 Forza Horizon 3,2016 Sep,pc
 Gears of War 4,2016 Oct,pc
-Grim Dawn,2016 Feb,pc
 Hearts of Iron IV,2016 Jun,pc
-INVERSUS,2016 Aug,pc
-Kathy Rain,2016 May,pc
 OneShot,2016 Jun,pc
-Plague Inc: Evolved,2016 Feb,pc
 Planet Coaster,2016 Nov,pc
-Pony Island,2016 Jan,pc
-Quadrilateral Cowboy,2016 Jul,pc
 Rabi-Ribi,2016 Jan,pc
-Samorost 3,2016 Mar,pc
-Slayaway Camp,2016 Oct,pc
 Songs for a Hero - A Lenda do Heroi,2016 Apr,pc
-SpeedRunners,2016 Apr,pc
-Stephen's Sausage Roll,2016 Apr,pc
 The Banner Saga 2,2016 Apr,pc
-The Count Lucanor,2016 Mar,pc
-Wuppo,2016 Sep,pc
-Zombie Night Terror,2016 Jul,pc
 Bleed 2,2017 Feb,pc
 Cat Quest,2017 Aug,pc
 Darkwood,2017 Aug,pc,bought
-Detention,2017 Jan,pc
-Doki Doki Literature Club!,2017 Sep,pc
-Emily is Away Too,2017 May,pc
 Fight'N Rage,2017 Sep,pc
-Finding Paradise,2017 Dec,pc
 Forza Motorsport 7,2017 Oct,pc
-Gorogoa,2017 Dec,pc
-Heat Signature,2017 Sep,pc
 Hidden Folks,2017 Feb,pc
-HIVESWAP: Act 1,2017 Sep,pc
-Monolith,2017 Jun,pc
-Opus Magnum,2017 Dec,pc
-Paradigm,2017 Apr,pc
-Planescape: Torment - Enhanced Edition,2017 Apr,pc
 Rakuen,2017 May,pc
-Rivals of Aether,2017 Mar,pc
 Slime Rancher,2017 Aug,pc
-Splasher,2017 Feb,pc
-Subsurface Circular,2017 Aug,pc
 Tales of Berseria,2017 Jan,pc
-The End Is Nigh,2017 Jul,pc
 The Legend of Heroes: Trails in the Sky the 3rd,2017 May,pc
-Thimbleweed Park,2017 Mar,pc
-Tormentor X Punisher,2017 Jun,pc
 Total War: WARHAMMER II,2017 Sep,pc
 West of Loathing,2017 Aug,pc
-428: Shibuya Scramble,2018 Sep,pc
 DUSK,2018 Dec,pc
-FAR: Lone Sails,2018 May,pc
 Forza Horizon 4,2018 Oct,pc
 Full Metal Furies,2018 Jan,pc
 Iconoclasts,2018 Jan,pc
 Into the Breach,2018 Feb,pc
-Just Shapes & Beats,2018 May,pc
-LUMINES REMASTERED,2018 Jun,pc
 Pillars of Eternity II: Deadfire,2018 May,pc
-Pit People,2018 Mar,pc
 Return of the Obra Dinn,2018 Oct,pc
-RimWorld,2018 Oct,pc
 The Awesome Adventures of Captain Spirit,2018 Jun,pc
 The Gardens Between,2018 Sep,pc
-The Red Strings Club,2018 Jan,pc
-Thronebreaker: The Witcher Tales,2018 Oct,pc
-Unavowed,2018 Aug,pc
-Wandersong,2018 Sep,pc
 Yoku's Island Express,2018 May,pc,bought
 Youropa,2018 Jun,pc,bought
 Age of Empires II: Definitive Edition,2019 Nov,pc
 Amid Evil,2019 Jun,pc
-APE OUT,2019 Feb,pc
-Arcade Spirits,2019 Feb,pc
 Baba Is You,2019 Mar,pc
-Bug Fables: The Everlasting Sapling,2019 Nov,pc
 Children of Morta,2019 Sep,pc,bought
 Dicey Dungeons,2019 Aug,pc
 Frog Detective 2: The Case of the Invisible Wizard,2019 Dec,pc,bought
@@ -503,12 +380,7 @@ Katana ZERO,2019 Apr,pc
 Kind Words (lo fi chill beats to write to),2019 Sep,pc
 Manifold Garden,2019 Oct,pc
 My Friend Pedro,2019 Jun,pc
-Noita,2019 Sep,pc
-One Finger Death Punch 2,2019 Apr,pc
-Oxygen Not Included,2019 Jul,pc
 Pikuniku,2019 Jan,pc
-Raging Loop,2019 Aug,pc
-Reventure,2019 Jun,pc
 Streets of Rogue,2019 Jul,pc
 Supraland,2019 Apr,pc
 Touhou Luna Nights,2019 Feb,pc
@@ -519,25 +391,18 @@ Cook Serve Delicious! 3?!,2020 Oct,pc
 Crusader Kings III,2020 Sep,pc
 Deep Rock Galactic,2020 May,pc
 Desperados III,2020 Jun,pc
-Disc Room,2020 Oct,pc
-Factorio,2020 Aug,pc
 Gears Tactics,2020 Apr,pc
 Ghostrunner,2020 Oct,pc
 Hades,2020 Sep,pc
 Lair of the Clockwork God,2020 Feb,pc
 Monster Train,2020 May,pc
 Ori and the Will of the Wisps,2020 Mar,pc
-Post Void,2020 Aug,pc
-Story of Seasons: Friends of Mineral Town,2020 Jul,pc
 The Pedestrian,2020 Jan,pc
-The Procession to Calvary,2020 Apr,pc
 WHAT THE GOLF?,2020 Oct,pc
-WORLD OF HORROR,2020 Feb,pc
 Assassin's Creed Valhalla,2020 Nov,ps5
 Yakuza: Like a Dragon,2020 Nov,ps4
 Chicken Police,2020 Nov,pc
 Marvel's Spider-Man: Miles Morales,2020 Nov,ps5
-Paradise Killer,2020 Sep,pc
 Sackboy: A Big Adventure,2020 Nov,ps5
 Football Manager 2021,2020 Nov,pc
 Visage,2020 Oct,ps4
