@@ -149,13 +149,12 @@ BlazBlue: Chrono Phantasma EXTEND,2015 Oct,ps4
 Dark Souls II: Scholar of the First Sin,2015 Apr,ps4
 Devil May Cry 4: Special Edition,2015 Jun,ps4
 Disgaea 5: Alliance of Vengeance,2015 Oct,ps4
-Divinity: Original Sin Enhanced Edition,2015 Oct,ps4
 Hotline Miami 2: Wrong Number,2015 Mar,ps4
 Nuclear Throne,2015 Dec,ps4
 Shovel Knight,2015 Apr,ps4
 The Talos Principle: Deluxe Edition,2015 Oct,ps4
 BlazBlue: Central Fiction,2016 Nov,ps4
-Crypt of the NecroDancer,2016 Feb,ps4
+Crypt of the NecroDancer,2016 Feb,pc,bought
 Dark Souls III,2016 Apr,ps4
 Darkest Dungeon,2016 Sep,ps4
 Dishonored 2,2016 Nov,ps4,bought
@@ -201,7 +200,6 @@ Bloodstained: Curse of the Moon,2018 May,ps4
 Burnout Paradise Remastered,2018 Mar,ps4
 Celeste (Linux),2018 Jan,ps4,bought
 Dead Cells,2018 Aug,ps4
-Divinity: Original Sin 2 – Definitive Edition,2018 Aug,ps4
 DJMax Respect,2018 Mar,ps4
 Don't Starve: Mega Pack,2018 Sep,ps4
 Dragon's Crown Pro,2018 May,ps4
@@ -370,7 +368,7 @@ Age of Empires II: Definitive Edition,2019 Nov,pc
 Amid Evil,2019 Jun,pc
 Baba Is You,2019 Mar,pc
 Children of Morta,2019 Sep,pc,bought
-Dicey Dungeons,2019 Aug,pc
+Dicey Dungeons,2019 Aug,pc,bought
 Frog Detective 2: The Case of the Invisible Wizard,2019 Dec,pc,bought
 Gato Roboto,2019 May,pc
 Ion Fury,2019 Aug,pc
@@ -396,7 +394,7 @@ Hades,2020 Sep,pc
 Lair of the Clockwork God,2020 Feb,pc
 Monster Train,2020 May,pc
 Ori and the Will of the Wisps,2020 Mar,pc
-The Pedestrian,2020 Jan,pc
+The Pedestrian,2020 Jan,pc,bought
 WHAT THE GOLF?,2020 Oct,pc
 Assassin's Creed Valhalla,2020 Nov,ps5
 Yakuza: Like a Dragon,2020 Nov,ps4
