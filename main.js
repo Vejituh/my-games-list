@@ -106,8 +106,18 @@ const displayResults = () => {
     }
 }
 
-window.onwheel = function (ev) {
+window.onscroll = function (ev) {
     if (((window.innerHeight + window.pageYOffset) >= document.body.offsetHeight) && gameList.childNodes.length > 11 && limit < gamesObj.length) {
+        let newLength = Array.from(gamesObj.slice(limit, (limit + 12)))
+        limit = limit + 12;
+        for (const game of newLength) {
+            results(game);
+        }
+    }
+}
+
+window.onwheel = function (ev) {
+    if (((window.innerHeight + window.pageYOffset) >= document.body.offsetHeight) && gameList.childNodes.length < 14) {
         let newLength = Array.from(gamesObj.slice(limit, (limit + 12)))
         limit = limit + 12;
         for (const game of newLength) {
