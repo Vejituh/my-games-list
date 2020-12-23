@@ -3,6 +3,7 @@ let gameList = document.getElementById("game-list");
 let mainBtnDiv = document.querySelector(".main-btns");
 let gamesObj = [];
 let failedToFetch = false;
+let limit = 12;
 
 const getGamesFile = async () => {
     try {
@@ -75,31 +76,46 @@ const displayNumOfGames = () =>{
 
 }
 
+const results = (game) => {
+    let gameDiv = document.createElement("div");
+    if (game.purchased) {
+        gameDiv.classList.add("bought");
+    }
+    gameDiv.classList.add("gameContainer");
+    let displayGameName = document.createElement("p");
+    let displayGameYear = document.createElement("p");
+    let displayGameConsole = document.createElement("img");
+    displayGameName.classList.add("game-name");
+    displayGameYear.classList.add("game-year");
+    displayGameConsole.classList.add("game-console");
+    displayGameName.textContent = game.title;
+    displayGameYear.textContent = `${game.release.getMonth() + 1}`.padStart(2, "0") + `/${game.release.getFullYear()}`;
+    displayGameConsole.src = `resources/images/${game.platform}.webp`;
+    gameDiv.appendChild(displayGameName);
+    gameDiv.appendChild(displayGameYear);
+    gameDiv.appendChild(displayGameConsole);
+    gameList.appendChild(gameDiv);
+}
+
 const displayResults = () => {
     gameList.innerHTML = "";
     for (const game of gamesObj) {
-        if (game.title.toLowerCase().includes(inputSearch.value.toLowerCase())) {
-            let gameDiv = document.createElement("div");
-            if (game.purchased) {
-                gameDiv.classList.add("bought");
+            if (game.title.toLowerCase().includes(inputSearch.value.toLowerCase()) && gameList.childNodes.length < limit) {
+                results(game);
             }
-            gameDiv.classList.add("gameContainer");
-            let displayGameName = document.createElement("p");
-            let displayGameYear = document.createElement("p");
-            let displayGameConsole = document.createElement("img");
-            displayGameName.classList.add("game-name");
-            displayGameYear.classList.add("game-year");
-            displayGameConsole.classList.add("game-console");
-            displayGameName.textContent = game.title;
-            displayGameYear.textContent = `${game.release.getMonth() + 1}`.padStart(2, "0") + `/${game.release.getFullYear()}`;
-            displayGameConsole.src = `resources/images/${game.platform}.webp`;
-            gameDiv.appendChild(displayGameName);
-            gameDiv.appendChild(displayGameYear);
-            gameDiv.appendChild(displayGameConsole);
-            gameList.appendChild(gameDiv);
+        }
+    }
+
+window.onwheel = function(ev) {
+    if (((window.innerHeight + window.pageYOffset) >= document.body.offsetHeight) && gameList.childNodes.length > 11 && limit < gamesObj.length) {
+        let newLength = Array.from(gamesObj.slice(limit,(limit+12)))
+        limit = limit + 12;
+        for (const game of newLength) {
+            results(game);
         }
     }
 }
+
 
 const sortObj = () => {
     cmp = function (a, b) {
