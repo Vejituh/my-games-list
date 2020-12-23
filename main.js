@@ -31,32 +31,32 @@ const splitFile = (data) => {
     }
 }
 
-const displayNumOfGames = () =>{
+const displayNumOfGames = () => {
     let pc = 0, ps1 = 0, ps2 = 0, ps3 = 0, ps4 = 0, ps5 = 0, Ninswitch = 0, maxNumOfGames;
     maxNumOfGames = gamesObj.length + 1;
     Object.values(gamesObj).forEach(game => {
-        switch(game.platform) {
+        switch (game.platform) {
             case "pc":
                 pc++;
-            break;
+                break;
             case "ps1":
                 ps1++;
-            break;
+                break;
             case "ps2":
                 ps2++
-            break;
+                break;
             case "ps3":
                 ps3++;
-            break;
+                break;
             case "ps4":
                 ps4++;
-            break;
+                break;
             case "ps5":
                 ps5++
-            break;
+                break;
             case "switch":
                 Ninswitch++;
-            break;
+                break;
         }
     })
     let div = document.createElement("div");
@@ -72,7 +72,7 @@ const displayNumOfGames = () =>{
                     `;
     div.innerHTML = divContent
     mainBtnDiv.appendChild(div);
-    
+
 
 }
 
@@ -100,15 +100,15 @@ const results = (game) => {
 const displayResults = () => {
     gameList.innerHTML = "";
     for (const game of gamesObj) {
-            if (game.title.toLowerCase().includes(inputSearch.value.toLowerCase()) && gameList.childNodes.length < limit) {
-                results(game);
-            }
+        if (game.title.toLowerCase().includes(inputSearch.value.toLowerCase()) && gameList.childNodes.length < limit) {
+            results(game);
         }
     }
+}
 
-window.onwheel = function(ev) {
+window.onwheel = function (ev) {
     if (((window.innerHeight + window.pageYOffset) >= document.body.offsetHeight) && gameList.childNodes.length > 11 && limit < gamesObj.length) {
-        let newLength = Array.from(gamesObj.slice(limit,(limit+12)))
+        let newLength = Array.from(gamesObj.slice(limit, (limit + 12)))
         limit = limit + 12;
         for (const game of newLength) {
             results(game);
