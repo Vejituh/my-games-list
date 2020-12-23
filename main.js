@@ -100,7 +100,7 @@ const results = (game) => {
 const displayResults = () => {
     gameList.innerHTML = "";
     for (const game of gamesObj) {
-        if (game.title.toLowerCase().includes(inputSearch.value.toLowerCase()) && gameList.childNodes.length < limit) {
+        if (game.title.toLowerCase().includes(inputSearch.value.toLowerCase()) && gameList.childNodes.length <= limit) {
             results(game);
         }
     }
@@ -120,6 +120,16 @@ window.onwheel = function (ev) {
     if (((window.innerHeight + window.pageYOffset) >= document.body.offsetHeight) && gameList.childNodes.length < 14) {
         let newLength = Array.from(gamesObj.slice(limit, (limit + 12)))
         limit = limit + 12;
+        for (const game of newLength) {
+            results(game);
+        }
+    }
+}
+
+window.ontouchmove = function (ev) {
+    if (gameList.childNodes.length > 11 && limit < gamesObj.length) {
+        let newLength = Array.from(gamesObj.slice(limit, gamesObj.length))
+        limit = gamesObj.length;
         for (const game of newLength) {
             results(game);
         }
