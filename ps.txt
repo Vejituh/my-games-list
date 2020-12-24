@@ -307,7 +307,7 @@ Orcs Must Die!,2011 Oct,pc
 Alan Wake,2012 Feb,pc
 Crusader Kings II,2012 Feb,pc
 Darksiders II,2012 Aug,pc
-Mark of the Ninja,2012 Oct,pc
+Mark of the Ninja,2012 Oct,pc,bought
 Orcs Must Die! 2,2012 Jul,pc
 The Cat Lady,2012 Dec,pc
 Torchlight II,2012 Sep,pc
@@ -337,11 +337,11 @@ Gears of War 4,2016 Oct,pc
 Hearts of Iron IV,2016 Jun,pc
 OneShot,2016 Jun,pc
 Planet Coaster,2016 Nov,pc
-Rabi-Ribi,2016 Jan,pc
+Rabi-Ribi,2016 Jan,pc,bought
 Songs for a Hero - A Lenda do Heroi,2016 Apr,pc
 The Banner Saga 2,2016 Apr,pc
-Bleed 2,2017 Feb,pc
-Cat Quest,2017 Aug,pc
+Bleed 2,2017 Feb,pc,bought
+Cat Quest,2017 Aug,pc,bought
 Darkwood,2017 Aug,pc,bought
 Fight'N Rage,2017 Sep,pc
 Forza Motorsport 7,2017 Oct,pc
@@ -352,9 +352,9 @@ Tales of Berseria,2017 Jan,pc
 The Legend of Heroes: Trails in the Sky the 3rd,2017 May,pc
 Total War: WARHAMMER II,2017 Sep,pc
 West of Loathing,2017 Aug,pc
-DUSK,2018 Dec,pc
+DUSK,2018 Dec,pc,bought
 Forza Horizon 4,2018 Oct,pc
-Full Metal Furies,2018 Jan,pc
+Full Metal Furies,2018 Jan,pc,bought
 Iconoclasts,2018 Jan,pc
 Into the Breach,2018 Feb,pc
 Pillars of Eternity II: Deadfire,2018 May,pc
@@ -364,12 +364,12 @@ The Gardens Between,2018 Sep,pc
 Yoku's Island Express,2018 May,pc,bought
 Youropa,2018 Jun,pc,bought
 Age of Empires II: Definitive Edition,2019 Nov,pc
-Amid Evil,2019 Jun,pc
+Amid Evil,2019 Jun,pc,bought
 Baba Is You,2019 Mar,pc
 Children of Morta,2019 Sep,pc,bought
 Dicey Dungeons,2019 Aug,pc,bought
 Frog Detective 2: The Case of the Invisible Wizard,2019 Dec,pc,bought
-Gato Roboto,2019 May,pc
+Gato Roboto,2019 May,pc,bought
 Ion Fury,2019 Aug,pc
 Islanders,2019 Apr,pc
 Katana ZERO,2019 Apr,pc
@@ -390,7 +390,7 @@ Desperados III,2020 Jun,pc
 Gears Tactics,2020 Apr,pc
 Ghostrunner,2020 Oct,pc
 Hades,2020 Sep,pc
-Lair of the Clockwork God,2020 Feb,pc
+Lair of the Clockwork God,2020 Feb,pc,bought
 Monster Train,2020 May,pc
 Ori and the Will of the Wisps,2020 Mar,pc
 The Pedestrian,2020 Jan,pc,bought
