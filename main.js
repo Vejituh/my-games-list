@@ -59,7 +59,7 @@ const displayNumOfGames = () => {
         }
     })
     let div = document.createElement("div");
-    div.classList.add("grid");
+    div.classList.add("grid", "grid-cols-1");
     let divContent = `<div class="card allPlats"><span><strong>Games:</strong> ${maxNumOfGames}</span></div>
                       <div class="card plat pc"><span><strong>PC:</strong> ${pc}</span></div>
                       <div class="card plat ps1"><span><strong>PS1:</strong> ${ps1}</span></div>

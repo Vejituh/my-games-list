@@ -10,13 +10,11 @@
     <link href="tailwind.css" rel="stylesheet">
 </head>
 
-<body>
-    <header id="header" class="container">
-        <label for="search-game">Search for a game on the wishlist</label>
-        <input incremental id="search-game" type="search" placeholder="Enter Game Title">
+<body class="min-h-screen flex flex-col place-content-center">
+    <header id="header" class="container flex flex-col self-center text-center">
+        <input class="mx-auto" incremental id="search-game" type="search" placeholder="Enter Game Title">
     </header>
-    </div>
-    <div id="game-list"></div>
+    <div id="game-list" class="grid grid-cols-1"></div>
     <script src="main.js"></script>
 </body>
 
