@@ -5,17 +5,17 @@
     <title>My Games</title>
     <meta name="Description"
         content="A games wishlist which contains background for the different platforms and an input to search for an individual game.">
-    <meta name="viewport" content="width=device-width" , inital-scale="1">
     <meta charset="utf-8">
-    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width" , inital-scale="1.0">
+    <link href="tailwind.css" rel="stylesheet">
 </head>
 
 <body>
-    <div id="header">
+    <header id="header" class="container">
         <label for="search-game">Search for a game on the wishlist</label>
-        <input incremental id="search-game" class="search-input" type="search" placeholder="Enter Game Title">
-    </div>
-    <div id="game-list" class="gameList"></div>
+        <input incremental id="search-game" type="search" placeholder="Enter Game Title">
+    </header>
+    <div id="game-list"></div>
     <script src="main.js"></script>
 </body>
 
