@@ -2,7 +2,6 @@ let inputSearch = document.getElementById("search-game");
 let gameList = document.getElementById("game-list");
 let mainBtnDiv = document.querySelector(".main-btns");
 let gamesObj = [];
-let failedToFetch = false;
 let limit = 12;
 
 const getGamesFile = async () => {
