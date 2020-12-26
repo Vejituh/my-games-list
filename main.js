@@ -59,15 +59,15 @@ const displayNumOfGames = () => {
         }
     })
     let div = document.createElement("div");
-    div.classList.add("grid", "grid-cols-1");
+    div.classList.add("grid", "grid-cols-1","text-sm", "md:text-base","place-content-center", "tracking-wide");
     let divContent = `<div class="card allPlats"><span><strong>Games:</strong> ${maxNumOfGames}</span></div>
-                      <div class="card plat pc"><span><strong>PC:</strong> ${pc}</span></div>
-                      <div class="card plat ps1"><span><strong>PS1:</strong> ${ps1}</span></div>
-                      <div class="card plat ps2"><span><strong>PS2:</strong> ${ps2}</span></div>
-                      <div class="card plat ps3"><span><strong>PS3:</strong> ${ps3}</span></div>
-                      <div class="card plat ps4"><span><strong>PS4:</strong> ${ps4}</span></div>
-                      <div class="card plat ps5"><span><strong>PS5:</strong> ${ps5}</span></div>
-                      <div class="card plat switch"><span><strong>Switch:</strong> ${Ninswitch}</span></div>
+                      <div class="hidden md:block tracking-wide pc"><span><strong>PC:</strong> ${pc}</span></div>
+                      <div class="hidden md:block tracking-wide ps1"><span><strong>PS1:</strong> ${ps1}</span></div>
+                      <div class="hidden md:block tracking-wide ps2"><span><strong>PS2:</strong> ${ps2}</span></div>
+                      <div class="hidden md:block tracking-wide ps3"><span><strong>PS3:</strong> ${ps3}</span></div>
+                      <div class="hidden md:block tracking-wide ps4"><span><strong>PS4:</strong> ${ps4}</span></div>
+                      <div class="hidden md:block tracking-wide ps5"><span><strong>PS5:</strong> ${ps5}</span></div>
+                      <div class="hidden md:block tracking-wide switch"><span><strong>Switch:</strong> ${Ninswitch}</span></div>
                     `;
     div.innerHTML = divContent
     mainBtnDiv.appendChild(div);

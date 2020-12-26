@@ -10,9 +10,9 @@
     <link href="tailwind.css" rel="stylesheet">
 </head>
 
-<body class="min-h-screen flex flex-col place-content-center">
-    <header id="header" class="container flex flex-col self-center text-center">
-        <input class="mx-auto" incremental id="search-game" type="search" placeholder="Enter Game Title">
+<body class="min-h-screen flex flex-col place-content-center p-4 w-screen bg-blue-1000">
+    <header id="header" class="flex md:flex-col text-center mx-auto py-4 space-x-5 md:space-y-5 md:space-x-0">
+        <input class="py-2.5 px-4 placeholder-black rounded-full text-sm md:text-base bg-pink-1000 border-2 border-pink-900" incremental id="search-game" type="search" placeholder="Enter Game Title">
     </header>
     <div id="game-list" class="grid grid-cols-1"></div>
     <script src="main.js"></script>
