@@ -11,8 +11,11 @@
 </head>
 
 <body class="min-h-screen flex flex-col place-content-center p-4 w-screen bg-blue-1000">
-    <header id="header" class="flex md:flex-col text-center mx-auto py-4 space-x-5 md:space-y-5 md:space-x-0">
-        <input class="py-2.5 px-4 placeholder-black rounded-full text-sm md:text-base bg-pink-1000 border-2 border-pink-900" incremental id="search-game" type="search" placeholder="Enter Game Title">
+    <header id="header"
+        class="flex sm:flex-col text-center mx-auto py-4 space-x-5 sm:space-y-5 sm:space-x-0 max-w-screen-2xl">
+        <input
+            class="py-2.5 px-4 sm:py-4 sm:px-5 mx-auto placeholder-black rounded-full text-sm sm:text-base bg-pink-1000 border-2 border-pink-900 sm:w-4/12 max-w-sm"
+            incremental id="search-game" type="search" placeholder="Enter Game Title">
     </header>
     <div id="game-list" class="grid grid-cols-1"></div>
     <script src="main.js"></script>

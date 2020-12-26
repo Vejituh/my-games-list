@@ -59,16 +59,55 @@ const displayNumOfGames = () => {
         }
     })
     let div = document.createElement("div");
-    div.classList.add("grid", "grid-cols-1","text-sm", "md:text-base","place-content-center", "tracking-wide");
-    let divContent = `<div class="card allPlats"><span><strong>Games:</strong> ${maxNumOfGames}</span></div>
-                      <div class="hidden md:block tracking-wide pc"><span><strong>PC:</strong> ${pc}</span></div>
-                      <div class="hidden md:block tracking-wide ps1"><span><strong>PS1:</strong> ${ps1}</span></div>
-                      <div class="hidden md:block tracking-wide ps2"><span><strong>PS2:</strong> ${ps2}</span></div>
-                      <div class="hidden md:block tracking-wide ps3"><span><strong>PS3:</strong> ${ps3}</span></div>
-                      <div class="hidden md:block tracking-wide ps4"><span><strong>PS4:</strong> ${ps4}</span></div>
-                      <div class="hidden md:block tracking-wide ps5"><span><strong>PS5:</strong> ${ps5}</span></div>
-                      <div class="hidden md:block tracking-wide switch"><span><strong>Switch:</strong> ${Ninswitch}</span></div>
-                    `;
+    div.classList.add("grid", "sm:grid-cols-3", "xl:grid-cols-4", "grid-flow-row", "sm:gap-6", "text-baseline", "lg:text-lg", "xl:text-xl", "text-left", "place-content-center");
+    let divContent = `<div class="tracking-wide sm:relative sm:overflow-hidden sm:h-48 lg:h-60">
+                        <img class="hidden sm:inline relative object-top object-cover h-full w-full" src="resources/images/allPlats.webp">
+                        <span class="sm:absolute sm:bottom-0 sm:-left-2.5 sm:bg-blue-2000 sm:pl-4 sm:pr-2 sm:rounded-full">
+                            <strong>Games:</strong> ${maxNumOfGames}
+                        </span>
+                       </div>
+                      <div class="hidden sm:inline tracking-wide sm:relative sm:overflow-hidden sm:h-48 lg:h-60">
+                        <img class="hidden sm:inline object-top object-cover h-full w-full" src="resources/images/pc-game.webp">
+                        <span class="sm:absolute sm:bottom-0 sm:-left-2.5 sm:bg-blue-2000 sm:pl-4 sm:pr-2 sm:rounded-full">
+                            <strong>PC:</strong> ${pc}
+                        </span>
+                       </div>
+                       <div class="hidden sm:inline tracking-wide sm:relative sm:overflow-hidden sm:h-48 lg:h-60">
+                       <img class="hidden sm:inline object-cover object-center h-full w-full" src="resources/images/ps1-game.webp">
+                        <span class="sm:absolute sm:bottom-0 sm:-left-2.5 sm:bg-blue-2000 sm:pl-4 sm:pr-2 sm:rounded-full">
+                            <strong>PS1:</strong> ${ps1}
+                        </span>
+                      </div>
+                      <div class="hidden sm:inline tracking-wide sm:relative sm:overflow-hidden sm:h-48 lg:h-60">
+                        <img class="hidden sm:inline relative object-cover object-top h-full w-full" src="resources/images/ps2-game.webp">
+                        <span class="sm:absolute sm:bottom-0 sm:-left-2.5 sm:bg-blue-2000 sm:pl-4 sm:pr-2 sm:rounded-full">
+                            <strong>PS2:</strong> ${ps2}
+                        </span>
+                      </div>
+                      <div class="hidden sm:inline tracking-wide sm:relative sm:overflow-hidden sm:h-48 lg:h-60">
+                        <img class="hidden sm:inline relative object-cover object-top h-full w-full" src="resources/images/ps3-game.webp">
+                        <span class="sm:absolute sm:bottom-0 sm:-left-2.5 sm:bg-blue-2000 sm:pl-4 sm:pr-2 sm:rounded-full">
+                            <strong>PS3:</strong> ${ps3}
+                        </span>
+                      </div>
+                      <div class="hidden sm:inline tracking-wide sm:relative sm:overflow-hidden sm:h-48 lg:h-60">
+                        <img class="hidden sm:inline relative object-cover object-top h-full w-full" src="resources/images/ps4-game.webp">
+                        <span class="sm:absolute sm:bottom-0 sm:-left-2.5 sm:bg-blue-2000 sm:pl-4 sm:pr-2 sm:rounded-full">
+                            <strong>PS4:</strong> ${ps4}
+                        </span>
+                      </div>
+                      <div class="hidden sm:inline tracking-wide sm:relative sm:overflow-hidden sm:h-48 lg:h-60">
+                        <img class="hidden sm:inline relative object-cover object-top h-full w-full" src="resources/images/ps5-game.webp">
+                        <span class="sm:absolute sm:bottom-0 sm:-left-2.5 sm:bg-blue-2000 sm:pl-4 sm:pr-2 sm:rounded-full">
+                            <strong>PS5:</strong> ${ps5}
+                        </span>
+                      </div>
+                      <div class="hidden sm:inline tracking-wide sm:relative sm:overflow-hidden sm:h-48 lg:h-60">
+                        <img class="hidden sm:inline relative object-cover object-top h-full w-full" src="resources/images/switch-game.webp">
+                        <span class="sm:absolute sm:bottom-0 sm:-left-2.5 sm:bg-blue-2000 sm:pl-4 sm:pr-2 sm:rounded-full">
+                            <strong>Switch:</strong> ${Ninswitch}
+                        </span>
+                      </div>`;
     div.innerHTML = divContent
     mainBtnDiv.appendChild(div);
 
