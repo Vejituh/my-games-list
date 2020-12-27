@@ -1,8 +1,7 @@
 let inputSearch = document.getElementById("search-game");
 let gameList = document.getElementById("game-list");
-let mainBtnDiv = document.querySelector(".main-btns");
+let mainBtnDiv = document.getElementById("header");
 let gamesObj = [];
-let failedToFetch = false;
 let limit = 12;
 
 const getGamesFile = async () => {
@@ -12,7 +11,7 @@ const getGamesFile = async () => {
         return data;
     }
     catch (e) {
-        console.log(e)
+        console.log(e);
     }
 }
 
@@ -60,16 +59,55 @@ const displayNumOfGames = () => {
         }
     })
     let div = document.createElement("div");
-    div.classList.add("grid");
-    let divContent = `<div class="card allPlats"><span><strong>Games:</strong> ${maxNumOfGames}</span></div>
-                      <div class="card plat pc"><span><strong>PC:</strong> ${pc}</span></div>
-                      <div class="card plat ps1"><span><strong>PS1:</strong> ${ps1}</span></div>
-                      <div class="card plat ps2"><span><strong>PS2:</strong> ${ps2}</span></div>
-                      <div class="card plat ps3"><span><strong>PS3:</strong> ${ps3}</span></div>
-                      <div class="card plat ps4"><span><strong>PS4:</strong> ${ps4}</span></div>
-                      <div class="card plat ps5"><span><strong>PS5:</strong> ${ps5}</span></div>
-                      <div class="card plat switch"><span><strong>Switch:</strong> ${Ninswitch}</span></div>
-                    `;
+    div.classList.add("grid", "sm:grid-cols-3", "xl:grid-cols-4", "grid-flow-row", "sm:gap-6", "text-lg", "xl:text-xl", "text-left", "place-content-center");
+    let divContent = `<div class="tracking-wide sm:relative sm:overflow-hidden sm:h-48 lg:h-60 rounded">
+                        <img class="hidden sm:inline relative object-top object-cover h-full w-full" src="resources/images/allPlats.webp">
+                        <span class="sm:absolute sm:bottom-0 sm:-left-4 sm:bg-blue-2000  sm:py-1 sm:pl-5 sm:pr-3 sm:rounded-full">
+                            <strong>Games:</strong> ${maxNumOfGames}
+                        </span>
+                       </div>
+                      <div class="hidden sm:inline tracking-wide sm:relative sm:overflow-hidden sm:h-48 lg:h-60 rounded">
+                        <img class="hidden sm:inline object-top object-cover h-full w-full" src="resources/images/pc-game.webp">
+                        <span class="sm:absolute sm:bottom-0 sm:-left-4 sm:bg-blue-2000  sm:py-1 sm:pl-5 sm:pr-3 sm:rounded-full">
+                            <strong>PC:</strong> ${pc}
+                        </span>
+                       </div>
+                       <div class="hidden sm:inline tracking-wide sm:relative sm:overflow-hidden sm:h-48 lg:h-60 rounded">
+                       <img class="hidden sm:inline object-cover object-center h-full w-full" src="resources/images/ps1-game.webp">
+                       <span class="sm:absolute sm:bottom-0 sm:-left-4 sm:bg-blue-2000  sm:py-1 sm:pl-5 sm:pr-3 sm:rounded-full">
+                       <strong>PS1:</strong> ${ps1}
+                        </span>
+                      </div>
+                      <div class="hidden sm:inline tracking-wide sm:relative sm:overflow-hidden sm:h-48 lg:h-60 rounded">
+                        <img class="hidden sm:inline relative object-cover object-top h-full w-full" src="resources/images/ps2-game.webp">
+                        <span class="sm:absolute sm:bottom-0 sm:-left-4 sm:bg-blue-2000  sm:py-1 sm:pl-5 sm:pr-3 sm:rounded-full">
+                            <strong>PS2:</strong> ${ps2}
+                        </span>
+                      </div>
+                      <div class="hidden sm:inline tracking-wide sm:relative sm:overflow-hidden sm:h-48 lg:h-60 rounded">
+                        <img class="hidden sm:inline relative object-cover object-top h-full w-full" src="resources/images/ps3-game.webp">
+                        <span class="sm:absolute sm:bottom-0 sm:-left-4 sm:bg-blue-2000  sm:py-1 sm:pl-5 sm:pr-3 sm:rounded-full">
+                            <strong>PS3:</strong> ${ps3}
+                        </span>
+                      </div>
+                      <div class="hidden sm:inline tracking-wide sm:relative sm:overflow-hidden sm:h-48 lg:h-60 rounded">
+                        <img class="hidden sm:inline relative object-cover object-top h-full w-full" src="resources/images/ps4-game.webp">
+                        <span class="sm:absolute sm:bottom-0 sm:-left-4 sm:bg-blue-2000  sm:py-1 sm:pl-5 sm:pr-3 sm:rounded-full">
+                            <strong>PS4:</strong> ${ps4}
+                        </span>
+                      </div>
+                      <div class="hidden sm:inline tracking-wide sm:relative sm:overflow-hidden sm:h-48 lg:h-60 rounded">
+                        <img class="hidden sm:inline relative object-cover object-top h-full w-full" src="resources/images/ps5-game.webp">
+                        <span class="sm:absolute sm:bottom-0 sm:-left-4 sm:bg-blue-2000  sm:py-1 sm:pl-5 sm:pr-3 sm:rounded-full">
+                            <strong>PS5:</strong> ${ps5}
+                        </span>
+                      </div>
+                      <div class="hidden sm:inline tracking-wide sm:relative sm:overflow-hidden sm:h-48 lg:h-60 rounded">
+                        <img class="hidden sm:inline relative object-cover object-top h-full w-full" src="resources/images/switch-game.webp">
+                        <span class="sm:absolute sm:bottom-0 sm:-left-4 sm:bg-blue-2000  sm:py-1 sm:pl-5 sm:pr-3 sm:rounded-full">
+                            <strong>Switch:</strong> ${Ninswitch}
+                        </span>
+                      </div>`;
     div.innerHTML = divContent
     mainBtnDiv.appendChild(div);
 
@@ -79,21 +117,13 @@ const displayNumOfGames = () => {
 const results = (game) => {
     let gameDiv = document.createElement("div");
     if (game.purchased) {
-        gameDiv.classList.add("bought");
+        gameDiv.classList.add("border-4", "border-gray-700");
     }
-    gameDiv.classList.add("gameContainer");
-    let displayGameName = document.createElement("p");
-    let displayGameYear = document.createElement("p");
-    let displayGameConsole = document.createElement("img");
-    displayGameName.classList.add("game-name");
-    displayGameYear.classList.add("game-year");
-    displayGameConsole.classList.add("game-console");
-    displayGameName.textContent = game.title;
-    displayGameYear.textContent = `${game.release.getMonth() + 1}`.padStart(2, "0") + `/${game.release.getFullYear()}`;
-    displayGameConsole.src = `resources/images/${game.platform}.webp`;
-    gameDiv.appendChild(displayGameName);
-    gameDiv.appendChild(displayGameYear);
-    gameDiv.appendChild(displayGameConsole);
+    gameDiv.classList.add("tracking-wide","bg-blue-2000", "rounded", "mb-4", "sm:mb-0", "p-7", "grid", "grid-cols-3", "relative", "overflow-hidden", "text-left");
+    let gameDivContent = `<p class="font-semibold w-full col-span-3 mb-4">${game.title}</p>
+                          <p class="font-mono self-end">${(game.release.getMonth() + 1) < 10 ? `0${(game.release.getMonth() + 1)}` : (game.release.getMonth() + 1)}/${game.release.getFullYear()}</p>
+                            <img src="resources/images/${game.platform}.webp" class="max-h-6 col-start-3 col-end-3 place-self-end">`
+    gameDiv.innerHTML = gameDivContent;
     gameList.appendChild(gameDiv);
 }
 
@@ -107,7 +137,7 @@ const displayResults = () => {
 }
 
 window.onscroll = function (ev) {
-    if (((window.innerHeight + window.pageYOffset) >= document.body.offsetHeight) && gameList.childNodes.length > 10 && limit < gamesObj.length) {
+    if (((window.innerHeight + window.pageYOffset) >= document.body.offsetHeight) && gameList.childNodes.length > 10 && limit < gamesObj.length && inputSearch.value.length < 1) {
         let newLength = Array.from(gamesObj.slice(limit, (limit + 12)))
         limit = limit + 12;
         for (const game of newLength) {
@@ -117,7 +147,7 @@ window.onscroll = function (ev) {
 }
 
 window.onwheel = function (ev) {
-    if (((window.innerHeight + window.pageYOffset) >= document.body.offsetHeight) && gameList.childNodes.length > 0 && gameList.childNodes.length < 14) {
+    if (((window.innerHeight + window.pageYOffset) >= document.body.offsetHeight) && gameList.childNodes.length > 1 && gameList.childNodes.length < 14 && inputSearch.value.length < 1) {
         let newLength = Array.from(gamesObj.slice(limit, (limit + 12)))
         limit = limit + 12;
         for (const game of newLength) {
@@ -127,7 +157,7 @@ window.onwheel = function (ev) {
 }
 
 window.ontouchmove = function (ev) {
-    if (gameList.childNodes.length >= 11 && limit < gamesObj.length) {
+    if (gameList.childNodes.length >= 11 && limit < gamesObj.length && inputSearch.value.length < 1) {
         let newLength = Array.from(gamesObj.slice(limit, gamesObj.length))
         limit = gamesObj.length;
         for (const game of newLength) {
