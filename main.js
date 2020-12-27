@@ -117,21 +117,13 @@ const displayNumOfGames = () => {
 const results = (game) => {
     let gameDiv = document.createElement("div");
     if (game.purchased) {
-        gameDiv.classList.add("bought");
+        gameDiv.classList.add("border-4","border-gray-700");
     }
-    gameDiv.classList.add("bg-blue-2000", "rounded");
-    let displayGameName = document.createElement("p");
-    let displayGameYear = document.createElement("p");
-    let displayGameConsole = document.createElement("img");
-    displayGameName.classList.add("game-name");
-    displayGameYear.classList.add("game-year");
-    displayGameConsole.classList.add("game-console");
-    displayGameName.textContent = game.title;
-    displayGameYear.textContent = `${game.release.getMonth() + 1}`.padStart(2, "0") + `/${game.release.getFullYear()}`;
-    displayGameConsole.src = `resources/images/${game.platform}.webp`;
-    gameDiv.appendChild(displayGameName);
-    gameDiv.appendChild(displayGameYear);
-    gameDiv.appendChild(displayGameConsole);
+    gameDiv.classList.add("bg-blue-2000", "rounded", "mb-4","sm:mb-0", "p-8","grid","grid-cols-3","relative","overflow-hidden", "text-left");
+    let gameDivContent = `<p class="font-semibold w-full col-span-3 mb-4">${game.title}</p>
+                          <p class="self-end">${(game.release.getMonth()+1) <10? `0${(game.release.getMonth()+1)}`:(game.release.getMonth()+1)}/${game.release.getFullYear()}</p>
+                            <img src="resources/images/${game.platform}.webp" class="max-h-6 col-start-3 col-end-3 place-self-end">`
+    gameDiv.innerHTML = gameDivContent;
     gameList.appendChild(gameDiv);
 }
 
