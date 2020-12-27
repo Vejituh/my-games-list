@@ -147,7 +147,7 @@ window.onscroll = function (ev) {
 }
 
 window.onwheel = function (ev) {
-    if (((window.innerHeight + window.pageYOffset) >= document.body.offsetHeight) && gameList.childNodes.length > 0 && gameList.childNodes.length < 14 && inputSearch.value.length < 1) {
+    if (((window.innerHeight + window.pageYOffset) >= document.body.offsetHeight) && gameList.childNodes.length > 1 && gameList.childNodes.length < 14 && inputSearch.value.length < 1) {
         let newLength = Array.from(gamesObj.slice(limit, (limit + 12)))
         limit = limit + 12;
         for (const game of newLength) {
