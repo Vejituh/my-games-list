@@ -119,7 +119,7 @@ const results = (game) => {
     if (game.purchased) {
         gameDiv.classList.add("bought");
     }
-    gameDiv.classList.add("gameContainer");
+    gameDiv.classList.add("bg-blue-2000", "rounded");
     let displayGameName = document.createElement("p");
     let displayGameYear = document.createElement("p");
     let displayGameConsole = document.createElement("img");
