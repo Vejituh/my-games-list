@@ -117,11 +117,11 @@ const displayNumOfGames = () => {
 const results = (game) => {
     let gameDiv = document.createElement("div");
     if (game.purchased) {
-        gameDiv.classList.add("border-4","border-gray-700");
+        gameDiv.classList.add("border-4", "border-gray-700");
     }
-    gameDiv.classList.add("bg-blue-2000", "rounded", "mb-4","sm:mb-0", "p-8","grid","grid-cols-3","relative","overflow-hidden", "text-left");
+    gameDiv.classList.add("bg-blue-2000", "rounded", "mb-4", "sm:mb-0", "p-8", "grid", "grid-cols-3", "relative", "overflow-hidden", "text-left");
     let gameDivContent = `<p class="font-semibold w-full col-span-3 mb-4">${game.title}</p>
-                          <p class="self-end">${(game.release.getMonth()+1) <10? `0${(game.release.getMonth()+1)}`:(game.release.getMonth()+1)}/${game.release.getFullYear()}</p>
+                          <p class="self-end">${(game.release.getMonth() + 1) < 10 ? `0${(game.release.getMonth() + 1)}` : (game.release.getMonth() + 1)}/${game.release.getFullYear()}</p>
                             <img src="resources/images/${game.platform}.webp" class="max-h-6 col-start-3 col-end-3 place-self-end">`
     gameDiv.innerHTML = gameDivContent;
     gameList.appendChild(gameDiv);
