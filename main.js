@@ -31,83 +31,44 @@ const splitFile = (data) => {
 }
 
 const displayNumOfGames = () => {
-    let pc = 0, ps1 = 0, ps2 = 0, ps3 = 0, ps4 = 0, ps5 = 0, Ninswitch = 0, maxNumOfGames;
-    maxNumOfGames = gamesObj.length;
+    let platformOfGames = { allPlats: 0, pc: 0, ps1: 0, ps2: 0, ps3: 0, ps4: 0, ps5: 0, switch: 0 };
+    platformOfGames.allPlats = gamesObj.length;
     Object.values(gamesObj).forEach(game => {
         switch (game.platform) {
             case "pc":
-                pc++;
+                platformOfGames.pc++;
                 break;
             case "ps1":
-                ps1++;
+                platformOfGames.ps1++;
                 break;
             case "ps2":
-                ps2++
+                platformOfGames.ps2++
                 break;
             case "ps3":
-                ps3++;
+                platformOfGames.ps3++;
                 break;
             case "ps4":
-                ps4++;
+                platformOfGames.ps4++;
                 break;
             case "ps5":
-                ps5++
+                platformOfGames.ps5++
                 break;
             case "switch":
-                Ninswitch++;
+                platformOfGames.switch++;
                 break;
         }
     })
     let div = document.createElement("div");
+    let divContent = "";
     div.classList.add("grid", "sm:grid-cols-3", "xl:grid-cols-4", "grid-flow-row", "sm:gap-6", "text-lg", "xl:text-xl", "text-left", "place-content-center");
-    let divContent = `<div class="tracking-wide sm:relative sm:overflow-hidden sm:h-48 lg:h-60 rounded">
-                        <img class="hidden sm:inline relative object-top object-cover h-full w-full" src="resources/images/allPlats.webp">
-                        <span class="sm:absolute sm:bottom-0 sm:-left-4 sm:bg-blue-2000  sm:py-1 sm:pl-5 sm:pr-3 sm:rounded-full">
-                            <strong>Games:</strong> ${maxNumOfGames}
-                        </span>
-                       </div>
-                      <div class="hidden sm:inline tracking-wide sm:relative sm:overflow-hidden sm:h-48 lg:h-60 rounded">
-                        <img class="hidden sm:inline object-top object-cover h-full w-full" src="resources/images/pc-game.webp">
-                        <span class="sm:absolute sm:bottom-0 sm:-left-4 sm:bg-blue-2000  sm:py-1 sm:pl-5 sm:pr-3 sm:rounded-full">
-                            <strong>PC:</strong> ${pc}
-                        </span>
-                       </div>
-                       <div class="hidden sm:inline tracking-wide sm:relative sm:overflow-hidden sm:h-48 lg:h-60 rounded">
-                       <img class="hidden sm:inline object-cover object-center h-full w-full" src="resources/images/ps1-game.webp">
-                       <span class="sm:absolute sm:bottom-0 sm:-left-4 sm:bg-blue-2000  sm:py-1 sm:pl-5 sm:pr-3 sm:rounded-full">
-                       <strong>PS1:</strong> ${ps1}
-                        </span>
-                      </div>
-                      <div class="hidden sm:inline tracking-wide sm:relative sm:overflow-hidden sm:h-48 lg:h-60 rounded">
-                        <img class="hidden sm:inline relative object-cover object-top h-full w-full" src="resources/images/ps2-game.webp">
-                        <span class="sm:absolute sm:bottom-0 sm:-left-4 sm:bg-blue-2000  sm:py-1 sm:pl-5 sm:pr-3 sm:rounded-full">
-                            <strong>PS2:</strong> ${ps2}
-                        </span>
-                      </div>
-                      <div class="hidden sm:inline tracking-wide sm:relative sm:overflow-hidden sm:h-48 lg:h-60 rounded">
-                        <img class="hidden sm:inline relative object-cover object-top h-full w-full" src="resources/images/ps3-game.webp">
-                        <span class="sm:absolute sm:bottom-0 sm:-left-4 sm:bg-blue-2000  sm:py-1 sm:pl-5 sm:pr-3 sm:rounded-full">
-                            <strong>PS3:</strong> ${ps3}
-                        </span>
-                      </div>
-                      <div class="hidden sm:inline tracking-wide sm:relative sm:overflow-hidden sm:h-48 lg:h-60 rounded">
-                        <img class="hidden sm:inline relative object-cover object-top h-full w-full" src="resources/images/ps4-game.webp">
-                        <span class="sm:absolute sm:bottom-0 sm:-left-4 sm:bg-blue-2000  sm:py-1 sm:pl-5 sm:pr-3 sm:rounded-full">
-                            <strong>PS4:</strong> ${ps4}
-                        </span>
-                      </div>
-                      <div class="hidden sm:inline tracking-wide sm:relative sm:overflow-hidden sm:h-48 lg:h-60 rounded">
-                        <img class="hidden sm:inline relative object-cover object-top h-full w-full" src="resources/images/ps5-game.webp">
-                        <span class="sm:absolute sm:bottom-0 sm:-left-4 sm:bg-blue-2000  sm:py-1 sm:pl-5 sm:pr-3 sm:rounded-full">
-                            <strong>PS5:</strong> ${ps5}
-                        </span>
-                      </div>
-                      <div class="hidden sm:inline tracking-wide sm:relative sm:overflow-hidden sm:h-48 lg:h-60 rounded">
-                        <img class="hidden sm:inline relative object-cover object-top h-full w-full" src="resources/images/switch-game.webp">
-                        <span class="sm:absolute sm:bottom-0 sm:-left-4 sm:bg-blue-2000  sm:py-1 sm:pl-5 sm:pr-3 sm:rounded-full">
-                            <strong>Switch:</strong> ${Ninswitch}
-                        </span>
-                      </div>`;
+    Object.entries(platformOfGames).forEach(platform => {
+        divContent += `<div class="tracking-wide sm:relative sm:overflow-hidden sm:h-48 lg:h-60 rounded">
+        <img class="hidden sm:inline relative object-top object-cover h-full w-full" src="resources/images/${platform[0]}-game.webp">
+        <span class="sm:absolute sm:bottom-0 sm:-left-4 sm:bg-blue-2000  sm:py-1 sm:pl-5 sm:pr-3 sm:rounded-full">
+            <strong>${platform[0] === "allPlats" ? "GAMES" : platform[0].toUpperCase()}:</strong> ${platform[1]}
+        </span>
+       </div>`
+    })
     div.innerHTML = divContent
     mainBtnDiv.appendChild(div);
 
@@ -119,7 +80,7 @@ const results = (game) => {
     if (game.purchased) {
         gameDiv.classList.add("border-4", "border-gray-700");
     }
-    gameDiv.classList.add("tracking-wide","bg-blue-2000", "rounded", "mb-4", "sm:mb-0", "p-7", "grid", "grid-cols-3", "relative", "overflow-hidden", "text-left");
+    gameDiv.classList.add("tracking-wide", "bg-blue-2000", "rounded", "mb-4", "sm:mb-0", "p-7", "grid", "grid-cols-3", "relative", "overflow-hidden", "text-left");
     let gameDivContent = `<p class="font-semibold w-full col-span-3 mb-4">${game.title}</p>
                           <p class="font-mono self-end">${(game.release.getMonth() + 1) < 10 ? `0${(game.release.getMonth() + 1)}` : (game.release.getMonth() + 1)}/${game.release.getFullYear()}</p>
                             <img src="resources/images/${game.platform}.webp" class="max-h-6 col-start-3 col-end-3 place-self-end">`
