@@ -62,7 +62,7 @@ const displayNumOfGames = () => {
     let divContent = "";
     div.classList.add("grid", "sm:grid-cols-3", "xl:grid-cols-4", "grid-flow-row", "sm:gap-6", "text-lg", "xl:text-xl", "text-left", "place-content-center");
     Object.entries(platformOfGames).forEach(platform => {
-        divContent += `<div class="tracking-wide sm:relative sm:overflow-hidden sm:h-48 lg:h-60 rounded">
+        divContent += `<div class="${platform[0] != "allPlats"?"hidden":""} tracking-wide sm:inline sm:relative sm:overflow-hidden sm:h-48 lg:h-60 rounded">
         <img class="hidden sm:inline relative object-top object-cover h-full w-full" src="resources/images/${platform[0]}-game.webp">
         <span class="sm:absolute sm:bottom-0 sm:-left-4 sm:bg-blue-2000  sm:py-1 sm:pl-5 sm:pr-3 sm:rounded-full">
             <strong>${platform[0] === "allPlats" ? "GAMES" : platform[0].toUpperCase()}:</strong> ${platform[1]}
