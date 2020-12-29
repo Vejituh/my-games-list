@@ -1,4 +1,3 @@
-Final Fantasy VII (Remake),1997 Nov,ps1
 Alundra,1998 Jun,ps1
 Final Fantasy Tactics,1998 Jan,ps1
 Gran Turismo,1998 May,ps1
@@ -408,3 +407,4 @@ Cyberpunk 2077,2020 Dec,ps5
 Monster Sanctuary,2020 Dec,pc
 Alba: A Wildlife Adventure,2020 Dec,pc
 WRC 9 FIA World Rally Championship,2020 Nov,ps5
+Final Fantasy VII Remake,2020 Apr, ps4
