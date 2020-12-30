@@ -406,5 +406,4 @@ Mortal Kombat 11 Ultimate,2020 Nov,ps4
 Cyberpunk 2077,2020 Dec,ps5
 Monster Sanctuary,2020 Dec,pc
 Alba: A Wildlife Adventure,2020 Dec,pc
-WRC 9 FIA World Rally Championship,2020 Nov,ps5
 Final Fantasy VII Remake,2020 Apr, ps4
