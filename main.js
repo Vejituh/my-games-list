@@ -60,7 +60,7 @@ const displayNumOfGames = () => {
     })
     let div = document.createElement("div");
     let divContent = "";
-    div.classList.add("grid", "sm:grid-cols-3", "xl:grid-cols-4", "grid-flow-row", "sm:gap-6", "text-lg", "xl:text-xl", "text-left", "place-content-center");
+    div.classList.add("grid", "sm:grid-cols-3", "grid-flow-row", "sm:gap-6", "text-lg", "xl:text-xl", "text-left", "place-content-center");
     Object.entries(platformOfGames).forEach(platform => {
         divContent += `<div class="${platform[0] != "allPlats"?"hidden":""} tracking-wide sm:inline sm:relative sm:overflow-hidden sm:h-48 lg:h-60 rounded">
         <img class="hidden sm:inline relative object-top object-cover h-full w-full" src="resources/images/${platform[0]}-game.webp">
