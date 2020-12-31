@@ -307,7 +307,7 @@ Darksiders II,2012 Aug,pc
 Mark of the Ninja,2012 Oct,pc,bought
 Orcs Must Die! 2,2012 Jul,pc
 The Cat Lady,2012 Dec,pc
-Torchlight II,2012 Sep,pc
+Torchlight II,2012 Sep,pc,bought
 Assassin's Creed IV: Black Flag,2013 Nov,pc
 BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien,2013 Feb,pc
 Call of Juarez: Gunslinger,2013 May,pc
