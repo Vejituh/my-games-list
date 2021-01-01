@@ -392,7 +392,6 @@ Monster Train,2020 May,pc
 Ori and the Will of the Wisps,2020 Mar,pc
 The Pedestrian,2020 Jan,pc,bought
 WHAT THE GOLF?,2020 Oct,pc
-Assassin's Creed Valhalla,2020 Nov,ps5
 Yakuza: Like a Dragon,2020 Nov,ps4
 Chicken Police,2020 Nov,pc
 Marvel's Spider-Man: Miles Morales,2020 Nov,ps5
