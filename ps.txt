@@ -86,7 +86,6 @@ LittleBigPlanet,2008 Nov,ps3
 Metal Gear Solid 4: Guns of the Patriots,2008 Jun,ps3
 Valkyria Chronicles (Remastered),2008 Nov,ps3
 Braid (Linux),2009 Dec,ps3
-Demon's Souls (PS5 Remake),2009 Jun,ps3
 Fat Princess,2009 Jul,ps3
 Killzone 2,2009 Feb,ps3
 Ratchet & Clank Future: A Crack in Time,2009 Nov,ps3
@@ -99,7 +98,6 @@ Need for Speed: Hot Pursuit (PS4 Remaster),2010 Nov,ps3
 Red Dead Redemption,2010 May,ps3
 Scott Pilgrim vs. the World: The Game (PS4),2010 Aug,ps3
 Crysis,2011 Oct,ps3
-Dark Souls (Remastered),2011 Sep,ps3
 Dead Space 2,2011 Jan,ps3
 LittleBigPlanet 2,2011 Jan,ps3
 Mass Effect 2,2011 Jan,ps3
@@ -142,7 +140,6 @@ The Wolf Among Us,2014 Nov,ps4
 Valiant Hearts: The Great War,2014 Jun,ps4
 Axiom Verge,2015 Apr,ps4
 BlazBlue: Chrono Phantasma EXTEND,2015 Oct,ps4
-Dark Souls II: Scholar of the First Sin,2015 Apr,ps4
 Devil May Cry 4: Special Edition,2015 Jun,ps4
 Disgaea 5: Alliance of Vengeance,2015 Oct,ps4
 Hotline Miami 2: Wrong Number,2015 Mar,ps4
@@ -151,7 +148,6 @@ Shovel Knight,2015 Apr,ps4
 The Talos Principle: Deluxe Edition,2015 Oct,ps4
 BlazBlue: Central Fiction,2016 Nov,ps4
 Crypt of the NecroDancer,2016 Feb,pc,bought
-Dark Souls III,2016 Apr,ps4
 Darkest Dungeon,2016 Sep,ps4
 Dishonored 2,2016 Nov,ps4,bought
 Enter the Gungeon,2016 Apr,ps4
