@@ -403,3 +403,4 @@ Monster Sanctuary,2020 Dec,pc
 Alba: A Wildlife Adventure,2020 Dec,pc
 Final Fantasy VII Remake,2020 Apr,ps4
 WRC 9 FIA World Rally Championship,2020 Nov,ps5
+Katamari Damacy REROLL,2020 Nov,ps4
